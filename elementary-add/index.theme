@@ -1,0 +1,31 @@
+[Icon Theme]
+Name=elementary-add
+Inherits=elementary
+Comment=A collection of additions to the default icon theme of elementary OS.
+
+Example=directory-x-normal
+
+#Directory list
+Directories=actions/24,apps/48,panel/24
+
+[actions/24]
+Size=24
+Context=Actions
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[apps/48]
+Size=48
+Context=Applications
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[panel/24]
+Size=24
+Context=Status
+MinSize=8
+MaxSize=512
+Type=Scalable
+
