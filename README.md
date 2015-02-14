@@ -8,9 +8,11 @@ This project is a fork [elementary+](https://github.com/mank319/elementaryPlus).
 Only SVG-icons!
 
 ## Install
+```
 cd /tmp
 git clone
 mkdir ~/.icons
 gsettings set org.pantheon.desktop.slingshot icon-size 48
 gsettings set org.pantheon.desktop.slingshot columns 4
 gsettings set org.gnome.desktop.interface icon-theme elementary-add
+```
