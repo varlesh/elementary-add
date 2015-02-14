@@ -10,8 +10,10 @@ Only SVG-icons!
 ## Install
 ```
 cd /tmp
-git clone
+git clone https://github.com/varlesh/elementary-add.git
 mkdir ~/.icons
+cp -R elementary-add/elementary-add ~/.icons/elementary-add
+# Fix and apply
 gsettings set org.pantheon.desktop.slingshot icon-size 48
 gsettings set org.pantheon.desktop.slingshot columns 4
 gsettings set org.gnome.desktop.interface icon-theme elementary-add
