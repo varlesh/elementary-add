@@ -22,6 +22,7 @@ Alexey Varfolomeev (varlesh@gmail.com)
 * Diodon indicator
 * Rss-aware indicator
 * Radiotray indicator
+* And other
 
 * **Dropbox Status Icons:** Manuel Kehl's adaption of the Dropbox status icons of the [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) icon set
 * **Original Elementary Icons:** Several icons from the original elementary icon theme
@@ -48,3 +49,4 @@ Samuell Hewitt (hewittsamuel)
 
 Amathadius (amathadius.deviantart.com)
 * Transmission
+* Chromium
