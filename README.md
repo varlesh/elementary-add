@@ -10,5 +10,5 @@ Only SVG-icons!
 ## Install
 Open Terminal and copy/paste commands:
 ```
-cd /tmp; wget -c https://github.com/varlesh/elementary-add/archive/master.zip; unzip master.zip; cd elementary-add-master; chmod +x install.sh; ./install.sh
+cd /tmp; git clone https://github.com/varlesh/elementary-add.git; cd elementary-add; chmod +x install.sh; ./install.sh
 ```
