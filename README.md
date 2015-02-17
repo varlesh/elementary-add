@@ -8,13 +8,7 @@ This project is a fork [elementary+](https://github.com/mank319/elementaryPlus).
 Only SVG-icons!
 
 ## Install
+Open Terminal and copy/paste commands:
 ```
-cd /tmp
-git clone https://github.com/varlesh/elementary-add.git
-mkdir ~/.icons
-cp -R elementary-add/elementary-add ~/.icons/elementary-add
-# Fix size icons on slingshot and apply
-gsettings set org.pantheon.desktop.slingshot icon-size 48
-gsettings set org.pantheon.desktop.slingshot columns 4
-gsettings set org.gnome.desktop.interface icon-theme elementary-add
+cd /tmp; wget -c https://github.com/varlesh/elementary-add/archive/master.zip; unzip master.zip; cd elementary-add-master ; chmod +x install.sh; ./install.sh
 ```
