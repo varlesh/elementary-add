@@ -9,6 +9,8 @@ Only SVG-icons!
 ## Install
 Open Terminal and copy/paste commands:
 ```
-sudo apt-get install git
-cd /tmp; git clone https://github.com/varlesh/elementary-add.git; cd elementary-add; chmod +x install.sh; ./install.sh
+git clone https://github.com/varlesh/elementary-add.git
+cd elementary-add
+chmod +x install.sh
+./install.sh
 ```
