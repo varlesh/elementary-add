@@ -14,8 +14,8 @@
    width="48"
    height="48"
    id="svg3143"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="filezilla.svg">
+   inkscape:version="0.91 r"
+   sodipodi:docname="maxthon-browser.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -29,8 +29,8 @@
      inkscape:window-height="845"
      id="namedview46"
      showgrid="false"
-     inkscape:zoom="9.95"
-     inkscape:cx="17.853303"
+     inkscape:zoom="11.42"
+     inkscape:cx="23.718836"
      inkscape:cy="23.316057"
      inkscape:window-x="0"
      inkscape:window-y="30"
@@ -292,7 +292,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -342,7 +342,7 @@
      height="37"
      width="37" />
   <rect
-     style="opacity:0.34999999999999998;color:#000000;fill:none;stroke:#001841;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="opacity:0.35;color:#000000;fill:none;stroke:#0088d3;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="rect5505-21-1"
      y="5.5"
      x="4.5"
