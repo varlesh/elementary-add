@@ -14,8 +14,8 @@
    width="24"
    height="24"
    id="svg3208"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="network-transmit.svg">
+   inkscape:version="0.91 r"
+   sodipodi:docname="network-idle.svg">
   <sodipodi:namedview
      pagecolor="#020202"
      bordercolor="#666666"
@@ -25,16 +25,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="766"
-     inkscape:window-height="480"
+     inkscape:window-width="1600"
+     inkscape:window-height="845"
      id="namedview11"
      showgrid="false"
-     inkscape:zoom="9.8333333"
-     inkscape:cx="-7.1694915"
-     inkscape:cy="7.5254236"
-     inkscape:window-x="606"
-     inkscape:window-y="135"
-     inkscape:window-maximized="0"
+     inkscape:zoom="24.23"
+     inkscape:cx="13.639334"
+     inkscape:cy="11.176437"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg3208" />
   <metadata
      id="metadata13">
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -81,13 +81,29 @@
        gradientTransform="translate(-2,-1)" />
   </defs>
   <g
-     transform="matrix(0.88888889,0,0,0.88888889,1.3333333,1.3333333)"
-     style="display:block;fill:#ffffff;fill-opacity:1"
-     id="import-export">
-    <path
-       inkscape:connector-curvature="0"
-       d="M 9,3 5,7 h 3 v 7 h 2 V 7 h 3 L 9,3 z m 7,14 v -7 h -2 v 7 h -3 l 4,4 4,-4 h -3 z"
-       id="path5"
-       style="fill:#ffffff;fill-opacity:1" />
+     id="g4153"
+     transform="translate(0.99999995,-2.0000001)">
+    <g
+       id="import-export"
+       style="display:block;fill:#ffffff;fill-opacity:1"
+       transform="matrix(0.88888889,0,0,0.88888889,1.3333331,2.3333333)">
+      <path
+         sodipodi:nodetypes="cccccccc"
+         style="fill:#ffffff;fill-opacity:1"
+         id="path5"
+         d="M 9.1875,4.125 6.375,7.5 l 2.25,0 0,6.75 1.125,0 0,-6.75 2.25,0 z"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(-0.88888889,0,0,-0.88888889,20.666667,25.666667)"
+       style="display:block;fill:#ffffff;fill-opacity:1"
+       id="g4139">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 9.1875,4.125 6.375,7.5 l 2.25,0 0,6.75 1.125,0 0,-6.75 2.25,0 z"
+         id="path4141"
+         style="fill:#ffffff;fill-opacity:1"
+         sodipodi:nodetypes="cccccccc" />
+    </g>
   </g>
 </svg>
