@@ -14,8 +14,8 @@
    width="48"
    height="48"
    id="svg5390"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="applications-development.svg">
+   inkscape:version="0.91 r"
+   sodipodi:docname="inkscape.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -30,8 +30,8 @@
      id="namedview46"
      showgrid="false"
      inkscape:zoom="7.43"
-     inkscape:cx="15.897653"
-     inkscape:cy="24"
+     inkscape:cx="-24.613787"
+     inkscape:cy="18.61642"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
@@ -201,16 +201,6 @@
        fx="11.546201"
        fy="8.4497671"
        r="19.99999" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3707-319-631-407-324-3-2-9"
-       id="linearGradient3047"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(2e-6,0.9999993)"
-       x1="24"
-       y1="44"
-       x2="24"
-       y2="3.8990016" />
   </defs>
   <metadata
      id="metadata5395">
@@ -220,7 +210,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -252,7 +242,16 @@
        width="28" />
   </g>
   <rect
-     style="color:#000000;fill:url(#radialGradient3045);fill-opacity:1.0;fill-rule:nonzero;stroke:url(#linearGradient3047);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     width="39"
+     height="39"
+     rx="2"
+     ry="2"
+     x="4.5"
+     y="5.5"
+     id="rect4179"
+     style="color:#000000;fill:url(#radialGradient3045);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1" />
+  <rect
+     style="color:#000000;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.4"
      id="rect5505-21-69-0"
      y="5.5"
      x="4.5"

@@ -14,8 +14,8 @@
    width="48"
    height="48"
    id="svg4296"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="utilities-system-monitor.svg">
+   inkscape:version="0.91 r"
+   sodipodi:docname="deadbeef.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -29,8 +29,8 @@
      inkscape:window-height="845"
      id="namedview66"
      showgrid="false"
-     inkscape:zoom="6.1198265"
-     inkscape:cx="-5.908839"
+     inkscape:zoom="1"
+     inkscape:cx="-30.501039"
      inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="30"
@@ -445,7 +445,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -508,9 +508,4 @@
      style="fill:#80c040;fill-opacity:1;fill-rule:evenodd;stroke:none;filter:url(#filter3929)"
      d="m 13.705416,11.339419 0,3.383002 0,10.149004 7.611754,-5.074502 7.611753,5.074502 -15.223507,10.149005 0,3.383001 L 34.003425,24.871425 23.854421,18.105422 13.705416,11.339419 z"
      id="path3906" />
-  <path
-     id="path3084"
-     d="m 13.705416,11.339419 0,3.383002 0,10.149004 7.611754,-5.074502 7.611753,5.074502 -15.223507,10.149005 0,3.383001 L 34.003425,24.871425 23.854421,18.105422 13.705416,11.339419 z"
-     style="fill:#80c040;fill-opacity:1;fill-rule:evenodd;stroke:#426320;filter:url(#filter3929);stroke-opacity:1;opacity:0.29999999999999999;stroke-width:1.80000000000000004;stroke-miterlimit:4;stroke-dasharray:none"
-     inkscape:connector-curvature="0" />
 </svg>
