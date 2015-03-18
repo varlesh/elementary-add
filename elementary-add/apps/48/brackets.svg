@@ -29,9 +29,9 @@
      inkscape:window-height="845"
      id="namedview45"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="5.3512106"
-     inkscape:cy="15.480808"
+     inkscape:zoom="9.95"
+     inkscape:cx="44.643216"
+     inkscape:cy="27.54111"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
@@ -497,32 +497,19 @@
      style="overflow:visible;opacity:0.25"
      x="22.235947"
      y="12.332999" />
+  <path
+     sodipodi:nodetypes="ccccccccc"
+     d="m 22,15 0,4 -6,0 0,12 6,0 0,4 -10,0 0,-20 z"
+     id="path38"
+     inkscape:connector-curvature="0"
+     style="fill:#5a5a5a;fill-opacity:1" />
+  <path
+     style="fill:#5a5a5a;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path4235"
+     d="m 26,15 0,4 6,0 0,12 -6,0 0,4 10.000001,0 0,-20 z"
+     sodipodi:nodetypes="ccccccccc" />
   <g
-     id="g4339"
-     transform="translate(0.476158,0.6539314)">
-    <g
-       transform="matrix(0.35,0,0,0.35,1.473842,4.5210686)"
-       id="g34">
-      <g
-         id="g36">
-        <path
-           style="fill:#4d4d4d"
-           inkscape:connector-curvature="0"
-           id="path38"
-           d="m 59,27 0,14 -17,0 0,32 17,0 0,15 -32,0 0,-61 32,0 z" />
-      </g>
-    </g>
-    <g
-       transform="matrix(0.35,0,0,0.35,1.473842,4.5210686)"
-       id="g44">
-      <g
-         id="g46">
-        <path
-           style="fill:#4d4d4d"
-           inkscape:connector-curvature="0"
-           id="path48"
-           d="m 99,27 0,61 -32,0 0,-15 18,0 0,-32 -18,0 0,-14 32,0 z" />
-      </g>
-    </g>
-  </g>
+     id="g46"
+     transform="matrix(0.35,0,0,0.35,1.95,5.175)" />
 </svg>
