@@ -131,3 +131,6 @@ Samuell Hewitt (hewittsamuel)
 Amathadius (amathadius.deviantart.com)
 * Transmission
 * Chromium
+
+Yuly Nesterov
+* Design idea for icons simplescreenrecorder to tray
