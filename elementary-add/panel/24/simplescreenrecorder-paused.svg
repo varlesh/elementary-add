@@ -17,7 +17,7 @@
    inkscape:version="0.91 r"
    sodipodi:docname="simplescreenrecorder-paused.svg">
   <sodipodi:namedview
-     pagecolor="#3e3e3e"
+     pagecolor="#ff3e3e"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -30,7 +30,7 @@
      id="namedview12"
      showgrid="false"
      inkscape:zoom="28.12"
-     inkscape:cx="10.233874"
+     inkscape:cx="9.3008256"
      inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="30"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -88,25 +88,10 @@
        xlink:href="#linearGradient3678"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(-0.4100229,0,0,0.5447147,78.029995,-3.8459034)" />
-    <mask
-       id="m">
-      <rect
-         id="rect4144"
-         style="fill:white"
-         height="24"
-         width="24"
-         y="0"
-         x="0" />
-      <text
-         id="text4146"
-         style="font-family:Open Sans;font-weight:500;font-size:9;fill:black"
-         y="15.5"
-         x="6.5">Ak</text>
-    </mask>
   </defs>
   <path
      style="fill:#ffffff"
-     mask="url(#m)"
+     mask="none"
      d="M 3.75 6 C 2.7805 6 2 6.669 2 7.5 L 2 16.5 C 2 17.331 2.7805 18 3.75 18 L 14.25 18 C 15.2195 18 16 17.331 16 16.5 L 16 7.5 C 16 6.669 15.2195 6 14.25 6 L 3.75 6 z M 5 8 L 8 8 L 8 16 L 5 16 L 5 8 z M 10 8 L 13 8 L 13 16 L 10 16 L 10 8 z "
      id="rect4148" />
   <path

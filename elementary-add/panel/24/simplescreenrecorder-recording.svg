@@ -30,7 +30,7 @@
      id="namedview12"
      showgrid="false"
      inkscape:zoom="28.12"
-     inkscape:cx="10.233874"
+     inkscape:cx="4.8818114"
      inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="30"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -88,21 +88,6 @@
        xlink:href="#linearGradient3678"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(-0.4100229,0,0,0.5447147,78.029995,-3.8459034)" />
-    <mask
-       id="m">
-      <rect
-         id="rect4144"
-         style="fill:white"
-         height="24"
-         width="24"
-         y="0"
-         x="0" />
-      <text
-         id="text4146"
-         style="font-family:Open Sans;font-weight:500;font-size:9;fill:black"
-         y="15.5"
-         x="6.5">Ak</text>
-    </mask>
     <linearGradient
        gradientTransform="matrix(0,0.7805424,-0.7617909,0,28.873684,-37.749634)"
        gradientUnits="userSpaceOnUse"
@@ -159,7 +144,7 @@
   <rect
      id="rect4148"
      style="fill:#ffffff"
-     mask="url(#m)"
+     mask="none"
      rx="2"
      height="16"
      width="16"
