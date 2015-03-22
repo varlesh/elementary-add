@@ -3316,7 +3316,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3504,126 +3504,122 @@
        id="rect3005-5-3"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
     <g
-       id="g5298"
-       transform="translate(-10.876719,1.2110005)">
+       style="fill:#3077ac;fill-opacity:1"
+       transform="matrix(0.02291667,0,0,0.02291667,24.999977,31.199998)"
+       id="g5262">
       <g
-         id="g5262"
-         transform="matrix(0.02291667,0,0,0.02291667,36.276977,29.788998)"
-         style="fill:#3077ac;fill-opacity:1">
-        <g
-           id="g5264"
-           style="fill:#3077ac;fill-opacity:1">
-          <path
-             id="path5266"
-             d="M 0.176,224 0.001,67.963 l 192,-26.072 0,182.109 -191.825,0 z M 224.001,37.241 479.937,0 l 0,224 -255.936,0 0,-186.759 z M 479.999,256 l -0.062,224 -255.936,-36.008 0,-187.992 255.998,0 z M 192.001,439.918 0.157,413.621 0.147,256 l 191.854,0 0,183.918 z"
-             inkscape:connector-curvature="0"
-             style="fill:#3077ac;fill-opacity:1" />
-        </g>
-        <g
-           id="g5268"
-           style="fill:#3077ac;fill-opacity:1" />
-        <g
-           id="g5270"
-           style="fill:#3077ac;fill-opacity:1" />
-        <g
-           id="g5272"
-           style="fill:#3077ac;fill-opacity:1" />
-        <g
-           id="g5274"
-           style="fill:#3077ac;fill-opacity:1" />
-        <g
-           id="g5276"
-           style="fill:#3077ac;fill-opacity:1" />
-        <g
-           id="g5278"
-           style="fill:#3077ac;fill-opacity:1" />
-        <g
-           id="g5280"
-           style="fill:#3077ac;fill-opacity:1" />
-        <g
-           id="g5282"
-           style="fill:#3077ac;fill-opacity:1" />
-        <g
-           id="g5284"
-           style="fill:#3077ac;fill-opacity:1" />
-        <g
-           id="g5286"
-           style="fill:#3077ac;fill-opacity:1" />
-        <g
-           id="g5288"
-           style="fill:#3077ac;fill-opacity:1" />
-        <g
-           id="g5290"
-           style="fill:#3077ac;fill-opacity:1" />
-        <g
-           id="g5292"
-           style="fill:#3077ac;fill-opacity:1" />
-        <g
-           id="g5294"
-           style="fill:#3077ac;fill-opacity:1" />
-        <g
-           id="g5296"
-           style="fill:#3077ac;fill-opacity:1" />
+         style="fill:#3077ac;fill-opacity:1"
+         id="g5264">
+        <path
+           style="fill:#3077ac;fill-opacity:1"
+           inkscape:connector-curvature="0"
+           d="M 0.176,224 0.001,67.963 l 192,-26.072 0,182.109 -191.825,0 z M 224.001,37.241 479.937,0 l 0,224 -255.936,0 0,-186.759 z M 479.999,256 l -0.062,224 -255.936,-36.008 0,-187.992 255.998,0 z M 192.001,439.918 0.157,413.621 0.147,256 l 191.854,0 0,183.918 z"
+           id="path5266" />
       </g>
       <g
-         style="fill:#ffffff;fill-opacity:1"
-         transform="matrix(0.02291667,0,0,0.02291667,36.276696,29.089189)"
-         id="g5878">
-        <g
-           style="fill:#ffffff;fill-opacity:1"
-           id="g5838">
-          <path
-             style="fill:#ffffff;fill-opacity:1"
-             inkscape:connector-curvature="0"
-             d="M 0.176,224 0.001,67.963 l 192,-26.072 0,182.109 -191.825,0 z M 224.001,37.241 479.937,0 l 0,224 -255.936,0 0,-186.759 z M 479.999,256 l -0.062,224 -255.936,-36.008 0,-187.992 255.998,0 z M 192.001,439.918 0.157,413.621 0.147,256 l 191.854,0 0,183.918 z"
-             id="path5840" />
-        </g>
-        <g
-           style="fill:#ffffff;fill-opacity:1"
-           id="g5842" />
-        <g
-           style="fill:#ffffff;fill-opacity:1"
-           id="g5844" />
-        <g
-           style="fill:#ffffff;fill-opacity:1"
-           id="g5846" />
-        <g
-           style="fill:#ffffff;fill-opacity:1"
-           id="g5848" />
-        <g
-           style="fill:#ffffff;fill-opacity:1"
-           id="g5850" />
-        <g
-           style="fill:#ffffff;fill-opacity:1"
-           id="g5852" />
-        <g
-           style="fill:#ffffff;fill-opacity:1"
-           id="g5854" />
-        <g
-           style="fill:#ffffff;fill-opacity:1"
-           id="g5856" />
-        <g
-           style="fill:#ffffff;fill-opacity:1"
-           id="g5858" />
-        <g
-           style="fill:#ffffff;fill-opacity:1"
-           id="g5860" />
-        <g
-           style="fill:#ffffff;fill-opacity:1"
-           id="g5862" />
-        <g
-           style="fill:#ffffff;fill-opacity:1"
-           id="g5864" />
-        <g
-           style="fill:#ffffff;fill-opacity:1"
-           id="g5866" />
-        <g
-           style="fill:#ffffff;fill-opacity:1"
-           id="g5868" />
-        <g
-           style="fill:#ffffff;fill-opacity:1"
-           id="g5870" />
+         style="fill:#3077ac;fill-opacity:1"
+         id="g5268" />
+      <g
+         style="fill:#3077ac;fill-opacity:1"
+         id="g5270" />
+      <g
+         style="fill:#3077ac;fill-opacity:1"
+         id="g5272" />
+      <g
+         style="fill:#3077ac;fill-opacity:1"
+         id="g5274" />
+      <g
+         style="fill:#3077ac;fill-opacity:1"
+         id="g5276" />
+      <g
+         style="fill:#3077ac;fill-opacity:1"
+         id="g5278" />
+      <g
+         style="fill:#3077ac;fill-opacity:1"
+         id="g5280" />
+      <g
+         style="fill:#3077ac;fill-opacity:1"
+         id="g5282" />
+      <g
+         style="fill:#3077ac;fill-opacity:1"
+         id="g5284" />
+      <g
+         style="fill:#3077ac;fill-opacity:1"
+         id="g5286" />
+      <g
+         style="fill:#3077ac;fill-opacity:1"
+         id="g5288" />
+      <g
+         style="fill:#3077ac;fill-opacity:1"
+         id="g5290" />
+      <g
+         style="fill:#3077ac;fill-opacity:1"
+         id="g5292" />
+      <g
+         style="fill:#3077ac;fill-opacity:1"
+         id="g5294" />
+      <g
+         style="fill:#3077ac;fill-opacity:1"
+         id="g5296" />
+    </g>
+    <g
+       id="g5878"
+       transform="matrix(0.02291667,0,0,0.02291667,24.999977,29.999998)"
+       style="fill:#ffffff;fill-opacity:1">
+      <g
+         id="g5838"
+         style="fill:#ffffff;fill-opacity:1">
+        <path
+           id="path5840"
+           d="M 0.176,224 0.001,67.963 l 192,-26.072 0,182.109 -191.825,0 z M 224.001,37.241 479.937,0 l 0,224 -255.936,0 0,-186.759 z M 479.999,256 l -0.062,224 -255.936,-36.008 0,-187.992 255.998,0 z M 192.001,439.918 0.157,413.621 0.147,256 l 191.854,0 0,183.918 z"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff;fill-opacity:1" />
       </g>
+      <g
+         id="g5842"
+         style="fill:#ffffff;fill-opacity:1" />
+      <g
+         id="g5844"
+         style="fill:#ffffff;fill-opacity:1" />
+      <g
+         id="g5846"
+         style="fill:#ffffff;fill-opacity:1" />
+      <g
+         id="g5848"
+         style="fill:#ffffff;fill-opacity:1" />
+      <g
+         id="g5850"
+         style="fill:#ffffff;fill-opacity:1" />
+      <g
+         id="g5852"
+         style="fill:#ffffff;fill-opacity:1" />
+      <g
+         id="g5854"
+         style="fill:#ffffff;fill-opacity:1" />
+      <g
+         id="g5856"
+         style="fill:#ffffff;fill-opacity:1" />
+      <g
+         id="g5858"
+         style="fill:#ffffff;fill-opacity:1" />
+      <g
+         id="g5860"
+         style="fill:#ffffff;fill-opacity:1" />
+      <g
+         id="g5862"
+         style="fill:#ffffff;fill-opacity:1" />
+      <g
+         id="g5864"
+         style="fill:#ffffff;fill-opacity:1" />
+      <g
+         id="g5866"
+         style="fill:#ffffff;fill-opacity:1" />
+      <g
+         id="g5868"
+         style="fill:#ffffff;fill-opacity:1" />
+      <g
+         id="g5870"
+         style="fill:#ffffff;fill-opacity:1" />
     </g>
   </g>
 </svg>
