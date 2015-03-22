@@ -6,7 +6,7 @@ Comment=A collection of additions to the default icon theme of elementary OS.
 Example=directory-x-normal
 
 #Directory list
-Directories=actions/16,actions/24,apps/48,panel/24
+Directories=actions/16,actions/24,actions/32,apps/48,panel/24
 
 [actions/16]
 Size=16
@@ -17,6 +17,13 @@ Type=Scalable
 
 [actions/24]
 Size=24
+Context=Actions
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[actions/32]
+Size=32
 Context=Actions
 MinSize=8
 MaxSize=512
@@ -35,4 +42,3 @@ Context=Status
 MinSize=8
 MaxSize=512
 Type=Scalable
-
