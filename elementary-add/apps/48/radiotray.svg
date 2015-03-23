@@ -15,7 +15,7 @@
    height="48"
    id="svg3143"
    inkscape:version="0.91 r"
-   sodipodi:docname="glrp.svg">
+   sodipodi:docname="radiotray.svg">
   <sodipodi:namedview
      pagecolor="#3e3e3e"
      bordercolor="#666666"
@@ -30,7 +30,7 @@
      id="namedview46"
      showgrid="false"
      inkscape:zoom="9.28"
-     inkscape:cx="40.935345"
+     inkscape:cx="24.717673"
      inkscape:cy="23.316057"
      inkscape:window-x="0"
      inkscape:window-y="30"
@@ -38,6 +38,25 @@
      inkscape:current-layer="svg3143" />
   <defs
      id="defs3145">
+    <linearGradient
+       id="linearGradient4202">
+      <stop
+         offset="0"
+         style="stop-color:#90e69c;stop-opacity:1"
+         id="stop4204" />
+      <stop
+         offset="0.26238"
+         style="stop-color:#5fd36c;stop-opacity:1"
+         id="stop4206" />
+      <stop
+         offset="0.66093999"
+         style="stop-color:#45ae3e;stop-opacity:1"
+         id="stop4208" />
+      <stop
+         offset="1"
+         style="stop-color:#14601a;stop-opacity:1"
+         id="stop4210" />
+    </linearGradient>
     <linearGradient
        x1="23.99999"
        y1="4.999989"
@@ -264,7 +283,7 @@
        y2="54.780239" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3242"
+       xlink:href="#linearGradient4202"
        id="radialGradient3053"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0,6.6677582,-8.1858766,0,105.8829,-59.462774)"
