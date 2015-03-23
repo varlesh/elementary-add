@@ -75,7 +75,6 @@ Alexey Varfolomeev (varlesh@gmail.com)
 * synaptic
 * teamviewer
 * thunderbird
-* unetbootin
 * urbanterror
 * utilities-system-monitor
 * viber
@@ -134,3 +133,6 @@ Amathadius (amathadius.deviantart.com)
 
 Yuly Nesterov
 * Design idea for icons simplescreenrecorder to tray
+
+Andrea Soragna (http://sora-meliae.deviantart.com)
+* Unetbootin
