@@ -85,7 +85,6 @@ Alexey Varfolomeev (varlesh@gmail.com)
 * warthunder
 * wine
 * winecfg
-* winusbgui-icon
 * wps-office-etmain
 * wps-office-wppmain
 * wps-office-wpsmain
@@ -134,5 +133,6 @@ Amathadius (amathadius.deviantart.com)
 Yuly Nesterov
 * Design idea for icons simplescreenrecorder to tray
 
-Andrea Soragna (http://sora-meliae.deviantart.com)
+Andrea Soragna (sora-meliae.deviantart.com)
 * Unetbootin
+* winusbgui-icon
