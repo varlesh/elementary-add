@@ -3,7 +3,7 @@ Section: graphics
 Priority: optional
 Maintainer: Alexey Varfolomeev <varlesh@gmail.com>
 Build-Depends: debhelper (>= 7)
-Standards-Version: 3.9.5
+Standards-Version: 3.9.3
 Homepage: https://github.com/varlesh/elementary-add
 
 Package: elementary-add-icon-theme

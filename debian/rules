@@ -1,4 +1,7 @@
 #!/usr/bin/make -f
 
 %:
-	dh $@ 
+	dh $@
+
+override_dh_auto_install:
+    --sourcedir=elementary-add
