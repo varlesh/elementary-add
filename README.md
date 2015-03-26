@@ -7,4 +7,8 @@ This project is a fork [elementary+](https://github.com/mank319/elementaryPlus).
 Only SVG-icons!
 
 ## Install
-
+```
+sudo add-apt-repository ppa:varlesh-l/ppa-elementary-add
+sudo apt-get update
+sudo apt-get install elementary-add-icon-theme
+```
