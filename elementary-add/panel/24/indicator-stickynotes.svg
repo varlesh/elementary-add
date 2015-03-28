@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="24"
+   height="24"
+   id="svg2"
+   inkscape:version="0.91 r"
+   sodipodi:docname="diodon-panel.svg">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#969696"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="845"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="34.25"
+     inkscape:cx="12"
+     inkscape:cy="11.883212"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
+  <path
+     style="fill:#ffffff"
+     mask="none"
+     d="M 7.5 4 C 6.6690001 4 6 4.6690001 6 5.5 L 6 18.5 C 6 19.331 6.6690001 20 7.5 20 L 16.5 20 C 17.331 20 18 19.331 18 18.5 L 18 5.5 C 18 4.6690001 17.331 4 16.5 4 L 7.5 4 z M 8.0019531 7 L 15.984375 7 C 16.536681 6.99238 16.9914 7.43283 17 7.984375 C 17.008888 8.548158 16.548938 9.0078 15.984375 9 L 8.0019531 9 C 7.3520277 9 7.017178 8.5255065 7 8.0390625 C 6.9818885 7.5262055 7.3167369 7 8.0019531 7 z M 8.0019531 11 L 15.984375 11 C 16.536681 10.99238 16.9914 11.43283 17 11.984375 C 17.008888 12.548158 16.548938 13.0078 15.984375 13 L 8.0019531 13 C 7.3520277 13 7.017178 12.525507 7 12.039062 C 6.9818885 11.526205 7.3167369 11 8.0019531 11 z M 8.0019531 15 L 15.984375 15 C 16.536681 14.99238 16.9914 15.43283 17 15.984375 C 17.008888 16.548158 16.548938 17.0078 15.984375 17 L 8.0019531 17 C 7.3520277 17 7.017178 16.525506 7 16.039062 C 6.9818885 15.526205 7.3167369 15 8.0019531 15 z "
+     id="rect13" />
+</svg>
