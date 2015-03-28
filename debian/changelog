@@ -1,3 +1,58 @@
+elementary-add-icon-theme (0.2.0-1ubuntu0) trusty; urgency=medium
+
+  * Rename dir "extra/tdata" to "extra/telegram."Add icons pomodoro-indicator to "extra/pomodoro-indicator" for tray. Add README for pomodoro-indicator. Add icons timeshift, tomboy and indicator-stickynotes (for tray to).
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Sat, 28 Mar 2015 16:13:09 +0300
+
+elementary-add-icon-theme (0.1.9-1ubuntu9) trusty; urgency=medium
+
+  * Add icons mega for apps & mega, synapse for panel. Fix icons google-chrome, google-chrome2, backintime-gnome, homebank.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Sat, 28 Mar 2015 14:19:57 +0300
+
+elementary-add-icon-theme (0.1.8-1ubuntu8) trusty; urgency=medium
+
+  * Add icons acestreamplayer, homebank, librecad, shutter, evolution, qmmp, foobnix, scribus, xournal, springseed, gwoffice, everpad, synapse, htop, ardour, backintime-gnome. Fix icon brackets.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Sat, 28 Mar 2015 00:26:01 +0300
+
+elementary-add-icon-theme (0.1.7-1ubuntu7) trusty; urgency=medium
+
+  * Fix icons baobab, gnome-disks, gparted.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Fri, 27 Mar 2015 17:33:19 +0300
+
+elementary-add-icon-theme (0.1.6-1ubuntu6) trusty; urgency=medium
+
+  * Change icon gparted, gnome-disks, baobab. Add icons steam_icon_255710, steam_icon_251570, steam_icon_239140. Add symlink indicator-weather.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Fri, 27 Mar 2015 12:39:37 +0300
+
+elementary-add-icon-theme (0.1.5-1ubuntu5) trusty; urgency=medium
+
+  * Add icon GP6-icon, rakarrack, kdenlive, limbo, supermeatboy, line6, lingot-icon, transgui-2, jack_mixer, intel-installer and symlinks.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Fri, 27 Mar 2015 10:48:18 +0300
+
+elementary-add-icon-theme (0.1.4-1ubuntu4) trusty; urgency=medium
+
+  * Add symlinks for steam games and other icons
+  * 
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Thu, 26 Mar 2015 22:43:46 +0300
+
+elementary-add-icon-theme (0.1.3-1ubuntu2) trusty; urgency=medium
+
+  *Add icons alarm-clock, amd, nvidia & symlinks, clamtk, everlasting-summer, steam_icon_295270, update-notifier, symlink MidnightCommander 
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Thu, 26 Mar 2015 17:39:39 +0300
+
+elementary-add-icon-theme (0.1.2-1ubuntu1) trusty; urgency=low
+
+  * Add icons bluefish, browser-tor, dosbox, gprename, grub-customizer, keepassx
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Thu, 26 Mar 2015 12:07:37 +0300
+
 elementary-add-icon-theme (0.1.1-1) trusty; urgency=low
 
   * Initial release
