@@ -1,3 +1,15 @@
+elementary-add-icon-theme (0.2.2-1ubuntu2) trusty; urgency=medium
+
+  * Change icon browser-tor. Fix icons foobnix, opera, risk-of-rain, terraria.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Tue, 31 Mar 2015 00:46:54 +0300
+
+elementary-add-icon-theme (0.2.1-1ubuntu1) trusty; urgency=medium
+
+  * Add icons robocraft, motorbike, distance, pillarsofeternity, battleblock-theater, starbound, hotline-miami, hotline-miami2, risk-of-rain, eurotruck-simulator-2, terraria and STEAM symlinks.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Sun, 29 Mar 2015 22:40:06 +0300
+
 elementary-add-icon-theme (0.2.0-1ubuntu0) trusty; urgency=medium
 
   * Rename dir "extra/tdata" to "extra/telegram."Add icons pomodoro-indicator to "extra/pomodoro-indicator" for tray. Add README for pomodoro-indicator. Add icons timeshift, tomboy and indicator-stickynotes (for tray to).
