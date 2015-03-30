@@ -30,8 +30,8 @@
      id="namedview45"
      showgrid="false"
      inkscape:zoom="7.04"
-     inkscape:cx="15.037521"
-     inkscape:cy="27.54111"
+     inkscape:cx="-10.530661"
+     inkscape:cy="21.859292"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
@@ -39,6 +39,25 @@
      showguides="false" />
   <defs
      id="defs6651">
+    <linearGradient
+       id="linearGradient4240">
+      <stop
+         offset="0"
+         style="stop-color:#3aaac5;stop-opacity:1"
+         id="stop4242" />
+      <stop
+         offset="0.26238"
+         style="stop-color:#5984a6;stop-opacity:1"
+         id="stop4244" />
+      <stop
+         offset="0.704952"
+         style="stop-color:#427ebd;stop-opacity:1"
+         id="stop4246" />
+      <stop
+         offset="1"
+         style="stop-color:#4c67b3;stop-opacity:1"
+         id="stop4249" />
+    </linearGradient>
     <linearGradient
        x1="167.98311"
        y1="8.50811"
@@ -94,7 +113,7 @@
        fx="6.2001843"
        fy="9.9571075"
        id="radialGradient5521-1"
-       xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-8-3-3-6-4-8-8-8-2"
+       xlink:href="#linearGradient4240"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0,9.4975523,-11.65996,0,140.93055,-79.160978)" />
     <linearGradient
@@ -537,7 +556,7 @@
      height="37"
      width="37" />
   <rect
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.4;fill:none;stroke:#204bff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.4;fill:none;stroke:#6173be;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
      id="rect5505-21-3-2"
      y="5.4999948"
      x="4.5000124"

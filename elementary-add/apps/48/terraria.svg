@@ -30,7 +30,7 @@
      id="namedview46"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="12.341993"
+     inkscape:cx="32.140584"
      inkscape:cy="23.436817"
      inkscape:window-x="0"
      inkscape:window-y="30"
@@ -379,6 +379,66 @@
        x2="32.817135"
        y2="30.184839"
        gradientTransform="translate(0.52261275,-0.84678633)" />
+    <filter
+       inkscape:label="Pixellize"
+       inkscape:menu="Pixel tools"
+       inkscape:menu-tooltip="Reduce or remove antialiasing around shapes"
+       style="color-interpolation-filters:sRGB;"
+       id="filter4242">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1000 -500 "
+         id="feColorMatrix4244"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4250" />
+      <feColorMatrix
+         id="feColorMatrix4252"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1000 -500 "
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       inkscape:label="Pixellize"
+       inkscape:menu="Pixel tools"
+       inkscape:menu-tooltip="Reduce or remove antialiasing around shapes"
+       style="color-interpolation-filters:sRGB;"
+       id="filter4246">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1000 -500 "
+         id="feColorMatrix4248" />
+    </filter>
+    <filter
+       inkscape:label="Pixellize"
+       inkscape:menu="Pixel tools"
+       inkscape:menu-tooltip="Reduce or remove antialiasing around shapes"
+       style="color-interpolation-filters:sRGB;"
+       id="filter4254">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1000 -500 "
+         id="feColorMatrix4256" />
+    </filter>
+    <filter
+       inkscape:label="Pixellize"
+       inkscape:menu="Pixel tools"
+       inkscape:menu-tooltip="Reduce or remove antialiasing around shapes"
+       style="color-interpolation-filters:sRGB;"
+       id="filter4258">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1000 -500 "
+         id="feColorMatrix4260" />
+    </filter>
+    <filter
+       inkscape:label="Pixellize"
+       inkscape:menu="Pixel tools"
+       inkscape:menu-tooltip="Reduce or remove antialiasing around shapes"
+       style="color-interpolation-filters:sRGB;"
+       id="filter4267">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1000 -500 "
+         id="feColorMatrix4269" />
+    </filter>
   </defs>
   <metadata
      id="metadata3148">
@@ -435,7 +495,7 @@
      id="rect5505-21" />
   <g
      id="g4232"
-     style="fill:#007a35;fill-opacity:1"
+     style="fill:#007a35;fill-opacity:1;filter:url(#filter4246)"
      transform="translate(0,-0.5)">
     <rect
        y="35"
@@ -523,7 +583,7 @@
   </g>
   <g
      transform="translate(4.0396342,3.6158537)"
-     style="fill:#007a35;fill-opacity:1"
+     style="fill:#007a35;fill-opacity:1;filter:url(#filter4254)"
      id="g4350">
     <rect
        style="opacity:1;fill:#196430;fill-opacity:1;stroke:none;stroke-width:4.47700024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -623,7 +683,8 @@
      width="39" />
   <g
      id="g4340"
-     transform="translate(3,1)">
+     transform="translate(3,1)"
+     style="filter:url(#filter4258)">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.47700024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4275"
@@ -669,7 +730,8 @@
   </g>
   <g
      id="g4210"
-     transform="matrix(0.13915983,0,0,0.13915983,1.9669303,7.0232495)">
+     transform="matrix(0.13915983,0,0,0.13915983,1.9669303,7.0232495)"
+     style="filter:url(#filter4242)">
     <path
        style="fill:#a2a69e;fill-opacity:0"
        d="m 126.55083,249.66 c -1.78351,-1.35095 -2.85033,-1.43189 -4.586,-0.34795 -1.7211,1.07485 -2.73434,1.02039 -4.23833,-0.22781 -1.08707,-0.90219 -1.9765,-2.16095 -1.9765,-2.79725 0,-2.08344 6.81136,-7.20708 9.63481,-7.24749 1.9206,-0.0275 3.74329,-1.7177 5.99411,-5.55844 1.77888,-3.03541 4.05259,-6.19804 5.0527,-7.02805 1.39949,-1.16147 1.81838,-4.84159 1.81838,-15.97517 0,-13.99589 -0.10917,-14.57999 -3.35886,-17.97194 -1.84738,-1.92825 -4.02152,-3.5059 -4.83143,-3.5059 -0.80991,0 -2.99449,-1.19715 -4.85462,-2.66033 -3.65092,-2.87181 -3.84043,-2.83158 -13.15665,2.79263 l -4.32657,2.61195 -4.42343,-5.14148 c -2.43289,-2.82781 -5.05769,-5.13277 -5.832884,-5.12212 -0.775195,0.0112 -2.12338,-0.84089 -2.995967,-1.8923 -1.31384,-1.58308 -1.114178,-2.41443 1.161677,-4.83696 1.925833,-2.04995 2.523275,-3.8215 1.996543,-5.92016 -0.570124,-2.27157 0.144432,-3.85336 2.958691,-6.54959 2.11444,-2.02575 4.3384,-3.16658 5.17051,-2.65232 0.80308,0.49634 3.57165,-0.0498 6.15236,-1.21346 4.27564,-1.92803 5.09985,-1.94556 9.28399,-0.19731 5.47002,2.28551 6.70964,4.8412 4.80093,9.89794 -0.77805,2.0613 -0.98806,4.51007 -0.46668,5.44172 1.2271,2.1927 10.26969,6.8101 11.65727,5.95253 1.89393,-1.17052 1.23372,-13.8147 -0.80988,-15.51074 -1.05752,-0.87766 -1.875,-3.60259 -1.875,-6.25 0,-2.64741 0.81748,-5.37234 1.875,-6.25 3.45789,-2.86979 2.18682,-6.70168 -3.01824,-9.09904 -4.0625,-1.87111 -5.37,-1.97742 -8.23959,-0.66995 -3.05719,1.39295 -3.65485,1.25277 -5.76401,-1.35194 C 118.05892,138.78075 117,136.47054 117,135.24526 c 0,-2.48555 -2.82333,-4.02239 -5.50151,-2.99468 -1.00362,0.38513 -2.73829,-0.73666 -4.0625,-2.62716 -1.27104,-1.81461 -3.57661,-4.7481 -5.12349,-6.51888 -1.99827,-2.28751 -2.8125,-4.80417 -2.8125,-8.69301 0,-4.68814 0.448345,-5.64387 3.125,-6.66153 1.71875,-0.65347 3.125,-1.75158 3.125,-2.44025 0,-0.68866 -1.40625,-2.17353 -3.125,-3.2997 -1.71875,-1.12616 -3.121965,-2.686006 -3.118255,-3.466312 0.0038,-0.780305 2.818945,-4.132245 6.256075,-7.448754 5.90987,-5.702465 6.14716,-6.175899 4.36826,-8.715633 -2.9465,-4.206722 -2.26664,-7.620327 2.18142,-10.952984 8.58382,-6.431325 12.90298,-7.505388 19.00368,-4.725723 3.70495,1.688085 9.43382,-0.222259 9.43382,-3.145789 0,-3.229824 3.51177,-5.064685 6.81385,-3.560159 2.18383,0.995019 4.02314,0.972215 6.82295,-0.08459 3.59312,-1.356258 4.13842,-1.148722 8.70944,3.314749 4.24047,4.140711 5.22184,4.576673 7.52619,3.343425 2.25682,-1.207819 3.38983,-0.823513 7.63872,2.590982 2.74386,2.205034 4.98885,4.458733 4.98885,5.008221 0,1.711365 11.51006,14.094661 15.22181,16.376647 3.42354,2.104788 4.80129,6.569918 2.2877,7.414206 -0.68226,0.229161 -1.59816,4.916664 -2.03532,10.416664 -0.50875,6.40049 -1.7342,11.79975 -3.40452,15 -3.19826,6.12772 -7.00517,10.625 -8.994,10.625 -0.81868,0 -3.03758,1.21849 -4.93088,2.70776 -2.81213,2.21202 -3.86973,2.44088 -5.77662,1.25 -2.88782,-1.80347 -6.76725,-1.86733 -9.95035,-0.16378 -2.29261,1.22697 -2.41782,2.93156 -2.41782,32.91667 0,17.39247 0.30169,31.92437 0.67042,32.2931 1.1196,1.11961 9.83798,-2.37584 11.16227,-4.47529 0.83862,-1.32949 0.7574,-3.24185 -0.25115,-5.91382 -1.91927,-5.08469 -0.38722,-8.03554 5.43495,-10.4682 3.91425,-1.63548 4.94457,-1.63289 8.90624,0.0224 2.46396,1.02951 5.40578,1.57798 6.53738,1.21883 3.25523,-1.03318 9.27886,5.99393 8.34104,9.73055 -0.53356,2.12586 -0.0203,3.70102 1.71906,5.27508 3.49084,3.15915 3.08445,5.52597 -1.2056,7.02149 -2.05292,0.71565 -4.82785,3.22105 -6.26456,5.65609 -2.34281,3.9708 -2.9501,4.29321 -6.62711,3.51849 -2.22637,-0.46909 -5.53759,-2.25025 -7.35828,-3.95815 -3.50221,-3.28528 -6.1721,-2.89523 -9.75802,1.42553 -0.88702,1.06879 -2.57083,1.94325 -3.7418,1.94325 -4.7613,0 -9.9256,9.64343 -6.34829,11.85433 0.6691,0.41352 2.07991,2.57126 3.13512,4.79497 1.86327,3.92654 6.21192,6.83134 13.64385,9.11379 5.60962,1.72279 6.87297,4.7602 3.48148,8.37028 -2.27289,2.41938 -3.94825,2.95656 -8.70816,2.79212 -3.24162,-0.112 -6.8876,-0.65482 -8.10219,-1.20629 -1.21459,-0.55147 -3.74584,-0.62858 -5.625,-0.17137 -6.05225,1.47257 -15.79851,1.76887 -18.0768,0.54957 -1.42578,-0.76306 -3.07458,-0.72525 -4.62804,0.10613 -1.84177,0.98569 -2.91006,0.79465 -4.51147,-0.80678 -1.96437,-1.96436 -2.17331,-1.96421 -3.27392,0.003 -1.41277,2.52447 -2.20981,2.56405 -5.25059,0.26075 z"
@@ -706,25 +768,29 @@
        id="path4212"
        inkscape:connector-curvature="0" />
   </g>
-  <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.47700024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect4316"
-     width="4"
-     height="4"
-     x="8"
-     y="10" />
-  <rect
-     y="8.999999"
-     x="10"
-     height="4"
-     width="4"
-     id="rect4318"
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.47700024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.47700024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="rect4320"
-     width="4"
-     height="4"
-     x="11"
-     y="11" />
+  <g
+     id="g4262"
+     style="filter:url(#filter4267)">
+    <rect
+       y="10"
+       x="8"
+       height="4"
+       width="4"
+       id="rect4316"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.47700024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.47700024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4318"
+       width="4"
+       height="4"
+       x="10"
+       y="8.999999" />
+    <rect
+       y="11"
+       x="11"
+       height="4"
+       width="4"
+       id="rect4320"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.47700024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
 </svg>
