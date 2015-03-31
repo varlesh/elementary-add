@@ -41,6 +41,7 @@ apps
 * distance
 * dosbox
 * doublecmd
+* dukto
 * easytag
 * eclipse
 * eurotruck-simulator-2
@@ -66,6 +67,7 @@ apps
 * GP6-icon
 * gparted
 * gprename
+* grid-autosport
 * grub-customizer
 * gtkpod
 * guake
@@ -146,9 +148,11 @@ apps
 * steam_icon_255710
 * steam_icon_295270
 * stellarium
+* stuntrally
 * sublime-text
 * sunflower
 * supermeatboy
+* supertuxkart
 * synapse
 * synaptic
 * teamviewer
@@ -159,12 +163,16 @@ apps
 * timeshift
 * tomboy
 * transgui-2
+* trine (Source Numix Circle)
+* trine2 (Source Numix Circle)
 * ubuntu-tweak
 * uget
 * unetbootin
 * unity3d
 * urbanterror
 * utilities-system-monitor
+* vdrift
+* venom
 * viber
 * virtualbox
 * vkaudiosaver
