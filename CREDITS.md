@@ -193,6 +193,16 @@ apps
 * xournal
 * yandex-browser-beta
 * youtube
+* assaultcube
+* dftd_icon
+* flightgear
+* hon
+* redeclipse
+* sauerbraten
+* srb2
+* teewords
+* worldofgoo
+* xonotic
 For panel
 * alarm-clock
 * alarm-clock-triggered
