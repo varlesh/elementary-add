@@ -203,6 +203,7 @@ apps
 * teewords
 * worldofgoo
 * xonotic
+* torchlight2
 For panel
 * alarm-clock
 * alarm-clock-triggered

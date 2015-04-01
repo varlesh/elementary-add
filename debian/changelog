@@ -1,3 +1,9 @@
+elementary-add-icon-theme (0.2.5-1ubuntu5) trusty; urgency=medium
+
+  * Add icon torchlight2 and shutter (for panel).Fix icons telegram, assaultcube, grid-autosport, gzdoom, robocraft, spring1944, starbound.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Wed, 01 Apr 2015 11:47:31 +0300
+
 elementary-add-icon-theme (0.2.4-1ubuntu4) trusty; urgency=medium
 
   * Fix acestreamplayer. Add icons cs, assaultcube, dftd_icon, flightgear, hon, redeclipse, sauerbraten, srb2, teewords, worldofgoo, xonotic and Steam links.
