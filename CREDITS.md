@@ -209,6 +209,10 @@ apps
 * crashplan (Source Numix Circle)
 * curelew
 * jitsi (Source Numix Circle)
+* xnoise (Source Numix Circle)
+* xnview (Source Numix Circle & elementary)
+* viewnior
+* tomahawk
 For panel
 * alarm-clock
 * alarm-clock-triggered
@@ -233,6 +237,10 @@ For panel
 * transmission-panel
 * shutter
 * qubittorrent
+* clementine-panel
+* clementine-panel-grey
+* deadbeef
+* tomahawk
 extra
 my-weather-indicator (Source elementary)
 * mwil-chance-of-rain and other...
