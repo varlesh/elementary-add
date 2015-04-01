@@ -204,6 +204,11 @@ apps
 * worldofgoo
 * xonotic
 * torchlight2
+* avidemux
+* cantata
+* crashplan (Source Numix Circle)
+* curelew
+* jitsi (Source Numix Circle)
 For panel
 * alarm-clock
 * alarm-clock-triggered
@@ -226,6 +231,8 @@ For panel
 * synapse
 * tablet-symbolic
 * transmission-panel
+* shutter
+* qubittorrent
 extra
 my-weather-indicator (Source elementary)
 * mwil-chance-of-rain and other...

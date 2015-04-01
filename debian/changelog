@@ -1,3 +1,9 @@
+elementary-add-icon-theme (0.2.6-1ubuntu6) trusty; urgency=medium
+
+  * Add icons avidemux, cantata, crashplan, curlew, jitsi + some symlinks. Add icon qbittorrent for panel.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Wed, 01 Apr 2015 13:41:35 +0300
+
 elementary-add-icon-theme (0.2.5-1ubuntu5) trusty; urgency=medium
 
   * Add icon torchlight2 and shutter (for panel).Fix icons telegram, assaultcube, grid-autosport, gzdoom, robocraft, spring1944, starbound.
