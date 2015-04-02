@@ -1,3 +1,23 @@
+elementary-add-icon-theme (0.2.9-1ubuntu9) trusty; urgency=medium
+
+  * Big changes ))
+  * Remastering  on "extra" dir.
+  * Add pushbulet-indicator, yd-tools, indicator-cpufreq for tray.
+  * Fix icon variety-indicator for panel.
+  * Add symlink oracle_java9.
+  * Add icon edit-find-symbolic & nasc.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Fri, 03 Apr 2015 00:12:09 +0300
+
+elementary-add-icon-theme (0.2.8-1ubuntu8) trusty; urgency=medium
+
+  * Add icon for music player Praga (audio-volume*, pragha, open-menu-symbolic) + add volume icons for fix panel. Fix media-playlist-repeat, media-playlist-shuffle.
+  * Add icons and symlinks for folder clents Mega, Dropbox, GDrive (grive).
+  * Add icons for grive-tools in "extra" + README.
+  * Add icons for variety in "extra" + README.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Thu, 02 Apr 2015 20:13:04 +0300
+
 elementary-add-icon-theme (0.2.7-1ubuntu7) trusty; urgency=medium
 
   * Add icons xnoise and xnview,  also for panel clementine-panel, clementine-panel-grey, deadbeef, tomahawk. Change icons viewnior, eog.
