@@ -15,7 +15,7 @@
    height="24"
    id="svg5280"
    inkscape:version="0.91 r"
-   sodipodi:docname="media-playlist-repeat.svg">
+   sodipodi:docname="audio-volume-off.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -30,7 +30,7 @@
      id="namedview16"
      showgrid="false"
      inkscape:zoom="9.8333333"
-     inkscape:cx="-37.779661"
+     inkscape:cx="-19.474576"
      inkscape:cy="12"
      inkscape:window-x="0"
      inkscape:window-y="30"
@@ -151,6 +151,104 @@
        y1="92.539597"
        x2="45.447727"
        y2="7.0165396" />
+    <linearGradient
+       x1="45.447727"
+       y1="92.539597"
+       x2="45.447727"
+       y2="7.0165396"
+       id="linearGradient6178-2"
+       xlink:href="#ButtonShadow"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0058652,0.994169)" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter3174-3">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-1" />
+    </filter>
+    <linearGradient
+       x1="45.447727"
+       y1="92.539597"
+       x2="45.447727"
+       y2="7.0165396"
+       id="linearGradient6176"
+       xlink:href="#ButtonShadow"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0058652,0.994169)" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter3174-4-2">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-5-2" />
+    </filter>
+    <linearGradient
+       x1="45.447727"
+       y1="92.539597"
+       x2="45.447727"
+       y2="7.0165396"
+       id="linearGradient6178-1"
+       xlink:href="#ButtonShadow"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0058652,0.994169)" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter3174-1">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-8" />
+    </filter>
+    <linearGradient
+       x1="45.447727"
+       y1="92.539597"
+       x2="45.447727"
+       y2="7.0165396"
+       id="linearGradient6176-9"
+       xlink:href="#ButtonShadow"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0058652,0.994169)" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter3174-4-87">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-5-7" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#ButtonShadow"
+       id="linearGradient6022"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0058652,0.994169)"
+       x1="45.447727"
+       y1="92.539597"
+       x2="45.447727"
+       y2="7.0165396" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter3174-7">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-8-0" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#ButtonShadow"
+       id="linearGradient6024"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0058652,0.994169)"
+       x1="45.447727"
+       y1="92.539597"
+       x2="45.447727"
+       y2="7.0165396" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter3174-4-4">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-5-5-5" />
+    </filter>
   </defs>
   <metadata
      id="metadata5285">
@@ -160,15 +258,10 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <path
-     d="m 9.499999,3 0,2.5714287 -1.25,0 C 4.787499,5.5714287 2,8.4385712 2,12 c 0,3.561429 2.787499,6.428572 6.249999,6.428572 l 0,-2.571429 c -2.0775,0 -3.75,-1.720286 -3.75,-3.857143 0,-2.136857 1.6725,-3.8571431 3.75,-3.8571431 l 1.25,0 0,2.5714291 L 14.5,6.8571431 9.499999,3 Z M 15.75,5.5714287 l 0,2.5714282 c 2.0775,0 3.75,1.7202861 3.75,3.8571431 0,2.136857 -1.6725,3.857143 -3.75,3.857143 l -1.25,0 0,-2.571428 L 9.499999,17.142857 14.5,21 l 0,-2.571428 1.25,0 C 19.2125,18.428572 22,15.561429 22,12 22,8.4385712 19.2125,5.5714287 15.75,5.5714287 Z"
-     inkscape:connector-curvature="0"
-     id="rect3815"
-     style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
   <rect
      width="86"
      height="85"
@@ -189,4 +282,42 @@
      id="rect3745-5"
      style="opacity:0.9;fill:url(#linearGradient6178);fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter3174-4-8)"
      transform="matrix(0.6,0,0,0.62068966,479.50173,-16.667396)" />
+  <g
+     transform="matrix(0.6,0,0,0.62068966,281.40004,-400.98343)"
+     id="layer1-9">
+    <g
+       transform="translate(403.27272,612.31676)"
+       id="layer2-6"
+       style="display:none">
+      <rect
+         width="86"
+         height="85"
+         rx="6"
+         ry="6"
+         x="5"
+         y="7"
+         id="rect3745-1"
+         style="opacity:0.9;fill:url(#linearGradient6022);fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter3174-7)" />
+    </g>
+    <g
+       transform="translate(400,611.95312)"
+       id="layer2-4-6"
+       style="display:none">
+      <rect
+         width="86"
+         height="85"
+         rx="6"
+         ry="6"
+         x="5"
+         y="7"
+         id="rect3745-5-5"
+         style="opacity:0.9;fill:url(#linearGradient6024);fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter3174-4-4)" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d="M 33.09375,9.5 30.8125,11.59375 C 33.81132,13.71727 35.875,18.48584 35.875,24 c 0,5.51414 -2.06368,10.28275 -5.0625,12.40625 L 33.09375,38.5 C 36.57633,35.96472 39,30.44932 39,24 39,17.55066 36.57633,12.03526 33.09375,9.5 Z M 19,13.25 12.3125,20 9,20 9,28 12.3125,28 19,34.75 19,13.25 Z m 9.71875,0.1875 -2.125,1.90625 C 28.52448,17.39707 29.75,20.50076 29.75,24 c 0,3.49924 -1.22552,6.60293 -3.15625,8.65625 l 2.125,1.90625 C 31.22029,32.1608 32.875,28.3615 32.875,24 c 0,-4.36152 -1.65471,-8.16078 -4.15625,-10.5625 z M 24.6875,17 22.46875,18.96875 C 23.3334,20.41419 23.875,22.15076 23.875,24 c 0,1.84922 -0.5416,3.58579 -1.40625,5.03125 L 24.6875,31 C 26.11935,29.09438 27,26.65142 27,24 27,21.34858 26.11935,18.90562 24.6875,17 Z"
+       transform="translate(-473.00006,641.36218)"
+       id="path6945-2-3"
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.4;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.82310748;marker:none;enable-background:accumulate" />
+  </g>
 </svg>
