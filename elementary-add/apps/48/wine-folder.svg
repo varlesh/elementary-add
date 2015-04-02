@@ -29,8 +29,8 @@
      inkscape:window-height="845"
      id="namedview59"
      showgrid="false"
-     inkscape:zoom="7.03"
-     inkscape:cx="35.414199"
+     inkscape:zoom="1"
+     inkscape:cx="36.408416"
      inkscape:cy="16.051241"
      inkscape:window-x="0"
      inkscape:window-y="30"
@@ -2277,7 +2277,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2358,125 +2358,121 @@
      id="path6922"
      style="fill:url(#linearGradient3182)" />
   <g
-     id="g5135"
-     transform="translate(-16.846952,1.4520004)">
+     style="opacity:0.3;fill:#ffffff;fill-opacity:1"
+     transform="matrix(0.0250001,0,0,0.025,17.999976,26)"
+     id="g5099">
     <g
-       id="g5099"
-       transform="matrix(0.02916679,0,0,0.02916667,33.846922,23.547998)"
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1">
-      <g
-         id="g5101"
-         style="fill:#ffffff;fill-opacity:1">
-        <path
-           id="path5103"
-           d="M 0.176,224 0.001,67.963 l 192,-26.072 0,182.109 -191.825,0 z M 224.001,37.241 479.937,0 l 0,224 -255.936,0 0,-186.759 z M 479.999,256 l -0.062,224 -255.936,-36.008 0,-187.992 255.998,0 z M 192.001,439.918 0.157,413.621 0.147,256 l 191.854,0 0,183.918 z"
-           inkscape:connector-curvature="0"
-           style="fill:#ffffff;fill-opacity:1" />
-      </g>
-      <g
-         id="g5105"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="g5107"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="g5109"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="g5111"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="g5113"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="g5115"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="g5117"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="g5119"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="g5121"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="g5123"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="g5125"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="g5127"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="g5129"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="g5131"
-         style="fill:#ffffff;fill-opacity:1" />
-      <g
-         id="g5133"
-         style="fill:#ffffff;fill-opacity:1" />
+       style="fill:#ffffff;fill-opacity:1"
+       id="g5101">
+      <path
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:connector-curvature="0"
+         d="M 0.176,224 0.001,67.963 l 192,-26.072 0,182.109 -191.825,0 z M 224.001,37.241 479.937,0 l 0,224 -255.936,0 0,-186.759 z M 479.999,256 l -0.062,224 -255.936,-36.008 0,-187.992 255.998,0 z M 192.001,439.918 0.157,413.621 0.147,256 l 191.854,0 0,183.918 z"
+         id="path5103" />
     </g>
     <g
-       style="fill:#175785;fill-opacity:0.55294118"
-       transform="matrix(0.02916679,0,0,0.02916667,33.846922,22.748256)"
-       id="g5878">
-      <g
-         style="fill:#175785;fill-opacity:0.55294118"
-         id="g5838">
-        <path
-           style="fill:#175785;fill-opacity:0.55294118"
-           inkscape:connector-curvature="0"
-           d="M 0.176,224 0.001,67.963 l 192,-26.072 0,182.109 -191.825,0 z M 224.001,37.241 479.937,0 l 0,224 -255.936,0 0,-186.759 z M 479.999,256 l -0.062,224 -255.936,-36.008 0,-187.992 255.998,0 z M 192.001,439.918 0.157,413.621 0.147,256 l 191.854,0 0,183.918 z"
-           id="path5840" />
-      </g>
-      <g
-         style="fill:#175785;fill-opacity:0.55294118"
-         id="g5842" />
-      <g
-         style="fill:#175785;fill-opacity:0.55294118"
-         id="g5844" />
-      <g
-         style="fill:#175785;fill-opacity:0.55294118"
-         id="g5846" />
-      <g
-         style="fill:#175785;fill-opacity:0.55294118"
-         id="g5848" />
-      <g
-         style="fill:#175785;fill-opacity:0.55294118"
-         id="g5850" />
-      <g
-         style="fill:#175785;fill-opacity:0.55294118"
-         id="g5852" />
-      <g
-         style="fill:#175785;fill-opacity:0.55294118"
-         id="g5854" />
-      <g
-         style="fill:#175785;fill-opacity:0.55294118"
-         id="g5856" />
-      <g
-         style="fill:#175785;fill-opacity:0.55294118"
-         id="g5858" />
-      <g
-         style="fill:#175785;fill-opacity:0.55294118"
-         id="g5860" />
-      <g
-         style="fill:#175785;fill-opacity:0.55294118"
-         id="g5862" />
-      <g
-         style="fill:#175785;fill-opacity:0.55294118"
-         id="g5864" />
-      <g
-         style="fill:#175785;fill-opacity:0.55294118"
-         id="g5866" />
-      <g
-         style="fill:#175785;fill-opacity:0.55294118"
-         id="g5868" />
-      <g
-         style="fill:#175785;fill-opacity:0.55294118"
-         id="g5870" />
+       style="fill:#ffffff;fill-opacity:1"
+       id="g5105" />
+    <g
+       style="fill:#ffffff;fill-opacity:1"
+       id="g5107" />
+    <g
+       style="fill:#ffffff;fill-opacity:1"
+       id="g5109" />
+    <g
+       style="fill:#ffffff;fill-opacity:1"
+       id="g5111" />
+    <g
+       style="fill:#ffffff;fill-opacity:1"
+       id="g5113" />
+    <g
+       style="fill:#ffffff;fill-opacity:1"
+       id="g5115" />
+    <g
+       style="fill:#ffffff;fill-opacity:1"
+       id="g5117" />
+    <g
+       style="fill:#ffffff;fill-opacity:1"
+       id="g5119" />
+    <g
+       style="fill:#ffffff;fill-opacity:1"
+       id="g5121" />
+    <g
+       style="fill:#ffffff;fill-opacity:1"
+       id="g5123" />
+    <g
+       style="fill:#ffffff;fill-opacity:1"
+       id="g5125" />
+    <g
+       style="fill:#ffffff;fill-opacity:1"
+       id="g5127" />
+    <g
+       style="fill:#ffffff;fill-opacity:1"
+       id="g5129" />
+    <g
+       style="fill:#ffffff;fill-opacity:1"
+       id="g5131" />
+    <g
+       style="fill:#ffffff;fill-opacity:1"
+       id="g5133" />
+  </g>
+  <g
+     id="g5878"
+     transform="matrix(0.0250001,0,0,0.025,17.999976,25)"
+     style="fill:#175785;fill-opacity:0.55294118">
+    <g
+       id="g5838"
+       style="fill:#175785;fill-opacity:0.55294118">
+      <path
+         id="path5840"
+         d="M 0.176,224 0.001,67.963 l 192,-26.072 0,182.109 -191.825,0 z M 224.001,37.241 479.937,0 l 0,224 -255.936,0 0,-186.759 z M 479.999,256 l -0.062,224 -255.936,-36.008 0,-187.992 255.998,0 z M 192.001,439.918 0.157,413.621 0.147,256 l 191.854,0 0,183.918 z"
+         inkscape:connector-curvature="0"
+         style="fill:#175785;fill-opacity:0.55294118" />
     </g>
+    <g
+       id="g5842"
+       style="fill:#175785;fill-opacity:0.55294118" />
+    <g
+       id="g5844"
+       style="fill:#175785;fill-opacity:0.55294118" />
+    <g
+       id="g5846"
+       style="fill:#175785;fill-opacity:0.55294118" />
+    <g
+       id="g5848"
+       style="fill:#175785;fill-opacity:0.55294118" />
+    <g
+       id="g5850"
+       style="fill:#175785;fill-opacity:0.55294118" />
+    <g
+       id="g5852"
+       style="fill:#175785;fill-opacity:0.55294118" />
+    <g
+       id="g5854"
+       style="fill:#175785;fill-opacity:0.55294118" />
+    <g
+       id="g5856"
+       style="fill:#175785;fill-opacity:0.55294118" />
+    <g
+       id="g5858"
+       style="fill:#175785;fill-opacity:0.55294118" />
+    <g
+       id="g5860"
+       style="fill:#175785;fill-opacity:0.55294118" />
+    <g
+       id="g5862"
+       style="fill:#175785;fill-opacity:0.55294118" />
+    <g
+       id="g5864"
+       style="fill:#175785;fill-opacity:0.55294118" />
+    <g
+       id="g5866"
+       style="fill:#175785;fill-opacity:0.55294118" />
+    <g
+       id="g5868"
+       style="fill:#175785;fill-opacity:0.55294118" />
+    <g
+       id="g5870"
+       style="fill:#175785;fill-opacity:0.55294118" />
   </g>
 </svg>
