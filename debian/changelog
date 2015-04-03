@@ -1,3 +1,10 @@
+elementary-add-icon-theme (0.3.0-1ubuntu0) trusty; urgency=medium
+
+  * Add symlink QtProject-qtcreator.
+  * Fix icons for panel mwil-clear-night, variety-indicator, clementine-panel, clementine-panel-grey, edit-find-symbolic.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Fri, 03 Apr 2015 04:35:43 +0300
+
 elementary-add-icon-theme (0.2.9-1ubuntu9) trusty; urgency=medium
 
   * Big changes ))
