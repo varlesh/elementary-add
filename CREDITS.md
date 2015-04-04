@@ -2,6 +2,41 @@
 
 This list contains references to the authors and original sources of the icons contained in this theme.
 
+Some icons from [elementary+](https://github.com/mank319/elementaryPlus)
+Source [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle)
+
+* **Dropbox Status Icons:** Manuel Kehl's adaption of the Dropbox status icons of the [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) icon set
+* **Original Elementary Icons:** Several icons from the original elementary icon theme
+
+Aneurin Hall (aneurin.hall@gmail.com)
+Application icons
+* Tux Guitar
+
+Micah Ilbery (TraumaD91)
+* Various LibreOffice icons
+* Tweetdeck
+* Pithos
+* Nuvola Player
+* Dolphin Emu
+* Various Steam games icons
+
+Caleb Riley (spiceofdesign)
+* Spotify application icon
+
+Samuell Hewitt (hewittsamuel)
+* Minecraft
+
+Amathadius (amathadius.deviantart.com)
+* Transmission
+* Chromium
+
+Yuly Nesterov
+* Design idea for icons simplescreenrecorder to tray
+
+Andrea Soragna (sora-meliae.deviantart.com)
+* Unetbootin
+* winusbgui-icon
+
 Alexey Varfolomeev (varlesh@gmail.com)
 apps
 * acestreamplayer
@@ -261,34 +296,4 @@ actions
 * media-playlist-shuffle
 * AND MORE OTHERS
 
-* **Dropbox Status Icons:** Manuel Kehl's adaption of the Dropbox status icons of the [Numix Circle](https://github.com/numixproject/numix-icon-theme-circle) icon set
-* **Original Elementary Icons:** Several icons from the original elementary icon theme
 
-Aneurin Hall (aneurin.hall@gmail.com)
-Application icons
-* Tux Guitar
-
-Micah Ilbery (TraumaD91)
-* Various LibreOffice icons
-* Tweetdeck
-* Pithos
-* Nuvola Player
-* Dolphin Emu
-* Various Steam games icons
-
-Caleb Riley (spiceofdesign)
-* Spotify application icon
-
-Samuell Hewitt (hewittsamuel)
-* Minecraft
-
-Amathadius (amathadius.deviantart.com)
-* Transmission
-* Chromium
-
-Yuly Nesterov
-* Design idea for icons simplescreenrecorder to tray
-
-Andrea Soragna (sora-meliae.deviantart.com)
-* Unetbootin
-* winusbgui-icon
