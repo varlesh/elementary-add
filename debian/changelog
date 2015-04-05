@@ -1,3 +1,15 @@
+elementary-add-icon-theme (0.3.3-1ubuntu3) trusty; urgency=medium
+
+  * Fix icons skype, bordelands, borderlands2. Cahnge icon srb2, unetbootin, winusbgui-icon. Add icons skype-wrapper-48, skype-wrapper and symlinks.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Sun, 05 Apr 2015 20:02:25 +0300
+
+elementary-add-icon-theme (0.3.2-1ubuntu2) trusty; urgency=medium
+
+  * Change more icons...
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Sun, 05 Apr 2015 07:25:07 +0300
+
 elementary-add-icon-theme (0.3.1-1ubuntu1) trusty; urgency=medium
 
   * Add icons for some games and Steam links - mark-of-the-ninja, worms-reloaded, machinarium, wasteland2, teslagrad, kerbal-space-program, brutal-legend, bridge-constructor, the-cave, little-inferno, slender, doom3, quake4, penumbra-bp, wet.
