@@ -21,10 +21,6 @@ Amathadius (amathadius.deviantart.com)
 Yuly Nesterov
 * Idea for simplescreenrecorder to tray
 
-Andrea Soragna (sora-meliae.deviantart.com)
-* unetbootin
-* winusbgui-icon
-
 Alexey Varfolomeev (varlesh@gmail.com)
 * Author project elementary-add and designer all others icons
 
