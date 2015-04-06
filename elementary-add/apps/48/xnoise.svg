@@ -27,7 +27,7 @@
        cx="23.896">
       <stop
          offset="0"
-         style="stop-color:#ff6182;stop-opacity:1"
+         style="stop-color:#ff9fb3;stop-opacity:1"
          id="stop4366" />
       <stop
          offset="0.66093999"
@@ -1377,8 +1377,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.42"
-     inkscape:cx="9.9717712"
+     inkscape:zoom="1"
+     inkscape:cx="40.935345"
      inkscape:cy="23.922233"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1397,7 +1397,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1422,7 +1422,7 @@
        id="path4176" />
     <path
        inkscape:connector-curvature="0"
-       style="opacity:0.7;color:#000000;fill:none;stroke:#ff4452;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="opacity:0.7;color:#000000;fill:none;stroke:#a13e45;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 24,3.4999999 C 12.68881,3.4999999 3.5,12.688806 3.5,23.999999 3.5,35.31119 12.68881,44.5 24,44.5 35.31119,44.5 44.50001,35.31119 44.5,23.999999 44.5,12.688806 35.31119,3.4999999 24,3.4999999 z"
        id="path3871" />
     <g
