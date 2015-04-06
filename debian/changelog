@@ -1,3 +1,11 @@
+elementary-add-icon-theme (0.3.5-1ubuntu5) trusty; urgency=medium
+
+  * Fix icons - chromium-browser, clamav, dftd_icon, garrysmod, google-chrome, homebank, mega, nvidia, ppsspp, qbittorrent, steam_icon_295270, timeshift, wine-help, wine-uninstaller, wine, winecfg, winetricks, xnoise.
+  * Add icons chromium-browser-alt & google-chrome-alt.
+  * Add AUTHORS.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Mon, 06 Apr 2015 22:20:54 +0300
+
 elementary-add-icon-theme (0.3.4-1ubuntu4) trusty; urgency=medium
 
   * Fix icons amarok, battlrblock-theater, chromium-browser, geany, google-chrome, kodi, teslagrad. Change icon machinarium.
