@@ -1,3 +1,17 @@
+elementary-add-icon-theme (0.3.7-1ubuntu7) trusty; urgency=medium
+
+  * Add icons mumble, netbeans-ide, gmusicbrowser, nmap_icon, wireshark, palemoon, fceux, python-idle, quodlibet, skype-call-recorder.
+  * Fix icon decibel.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Tue, 07 Apr 2015 22:19:21 +0300
+
+elementary-add-icon-theme (0.3.6-1ubuntu6) trusty; urgency=medium
+
+  * Add icons googleearth, amule, androidstudio, atom, bitcoin, billard-gl, braid, cairo-dock, celestia, conky-manager, crayon-physics-deluxe, crossover, cutegram, dc++, atunes, decibel, gpodder, freecad, grooveshark, guayadeque, hedgewars, lazarus, nero, nexuiz, ninja-ide, nootka.
+  * Fix icons geany, intel-installer.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Tue, 07 Apr 2015 14:11:08 +0300
+
 elementary-add-icon-theme (0.3.5-1ubuntu5) trusty; urgency=medium
 
   * Fix icons - chromium-browser, clamav, dftd_icon, garrysmod, google-chrome, homebank, mega, nvidia, ppsspp, qbittorrent, steam_icon_295270, timeshift, wine-help, wine-uninstaller, wine, winecfg, winetricks, xnoise.
