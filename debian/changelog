@@ -1,3 +1,16 @@
+elementary-add-icon-theme (0.3.9-1ubuntu9) trusty; urgency=medium
+
+  * Add icons civiizationV, cscz, dontstarve-together, fa2pp, nuclear-throne, shellshock-live, tabletop, warhammerquest, wither2 & Steam symlinks.
+  * Fix icons besiege, dontstarve. 
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Thu, 09 Apr 2015 12:29:42 +0300
+
+elementary-add-icon-theme (0.3.8-1ubuntu8) trusty; urgency=medium
+
+  * Fix icon quodlibet. Add icons besiege, sopcat-player, rwr, wfto.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Thu, 09 Apr 2015 05:58:46 +0300
+
 elementary-add-icon-theme (0.3.7-1ubuntu7) trusty; urgency=medium
 
   * Add icons mumble, netbeans-ide, gmusicbrowser, nmap_icon, wireshark, palemoon, fceux, python-idle, quodlibet, skype-call-recorder.
