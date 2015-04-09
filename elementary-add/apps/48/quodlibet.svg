@@ -1426,8 +1426,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="15.268242"
-     inkscape:cy="30.459954"
+     inkscape:cx="40.967271"
+     inkscape:cy="19.842834"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -1445,7 +1445,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1477,51 +1477,51 @@
        d="M 24,3.4999999 C 12.68881,3.4999999 3.5,12.688806 3.5,23.999999 3.5,35.31119 12.68881,44.5 24,44.5 35.31119,44.5 44.50001,35.31119 44.5,23.999999 44.5,12.688806 35.31119,3.4999999 24,3.4999999 Z"
        id="path3871" />
     <g
-       id="g4433"
-       transform="translate(0,0.51752232)">
+       id="g4418"
+       transform="translate(0,0.49951223)">
       <g
-         style="opacity:0.15;fill:none;stroke:#000000;stroke-width:1.99901855;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         transform="matrix(1.0000254,0,0,1.0009568,-9.1479753e-4,-0.00552957)"
-         id="g4417">
+         style="opacity:0.15;fill:none;stroke:#000000;stroke-width:2.18074751;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0999999;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(0.91668995,0,0,0.91754374,2.9991611,1.9949311)"
+         id="g4402">
         <g
-           style="fill:none;stroke:#000000;stroke-width:1.99901855;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;stroke:#000000;stroke-width:2.18074751;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0999999;stroke-dasharray:none;stroke-opacity:1"
            clip-path="url(#clipPath-670522636)"
-           id="g4419">
+           id="g4404">
           <!-- color: #1e3948 -->
           <g
-             style="fill:none;stroke:#000000;stroke-width:1.99901855;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             id="g4421">
+             style="fill:none;stroke:#000000;stroke-width:2.18074751;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0999999;stroke-dasharray:none;stroke-opacity:1"
+             id="g4406">
             <path
-               style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.99901855;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.18074751;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0999999;stroke-dasharray:none;stroke-opacity:1"
                inkscape:connector-curvature="0"
                d="m 36,34 c 0,0 -2,-3 -5,-3 -2.797,0.539 -3.906,0.082 -4,0 l 0,-12.11 c -0.133,-2.547 -2.223,-5.102 -5.336,-6.277 -3.949,-1.492 -8.125,-0.195 -9.332,2.906 -1.211,3.098 1,6.848 4.953,8.34 3.059,1.156 5.867,0.867 7.715,-0.863 l 0,12 c 4,2.66 7.719,-0.961 11,-1 m 0,0"
-               id="path4423" />
+               id="path4408" />
           </g>
         </g>
       </g>
       <g
-         id="g4425"
-         transform="matrix(1.0000254,0,0,1.0009568,-9.1479753e-4,-0.00552957)"
-         style="opacity:0.15;fill:none;stroke:#000000;stroke-width:0.99950927;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+         id="g4410"
+         transform="matrix(0.91668995,0,0,0.91754374,2.9991611,1.9949311)"
+         style="opacity:0.15;fill:none;stroke:#000000;stroke-width:1.09037375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0999999;stroke-dasharray:none;stroke-opacity:1">
         <g
-           id="g4427"
+           id="g4412"
            clip-path="url(#clipPath-670522636)"
-           style="fill:none;stroke:#000000;stroke-width:0.99950927;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+           style="fill:none;stroke:#000000;stroke-width:1.09037375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0999999;stroke-dasharray:none;stroke-opacity:1">
           <!-- color: #1e3948 -->
           <g
-             id="g4429"
-             style="fill:none;stroke:#000000;stroke-width:0.99950927;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+             id="g4414"
+             style="fill:none;stroke:#000000;stroke-width:1.09037375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0999999;stroke-dasharray:none;stroke-opacity:1">
             <path
-               id="path4431"
+               id="path4416"
                d="m 36,34 c 0,0 -2,-3 -5,-3 -2.797,0.539 -3.906,0.082 -4,0 l 0,-12.11 c -0.133,-2.547 -2.223,-5.102 -5.336,-6.277 -3.949,-1.492 -8.125,-0.195 -9.332,2.906 -1.211,3.098 1,6.848 4.953,8.34 3.059,1.156 5.867,0.867 7.715,-0.863 l 0,12 c 4,2.66 7.719,-0.961 11,-1 m 0,0"
                inkscape:connector-curvature="0"
-               style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99950927;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+               style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.09037375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.0999999;stroke-dasharray:none;stroke-opacity:1" />
           </g>
         </g>
       </g>
     </g>
     <g
-       transform="matrix(1.0000254,0,0,1.0009568,-9.1479753e-4,-0.00552957)"
+       transform="matrix(0.91668995,0,0,0.91754374,2.9991611,1.9949311)"
        id="g47-0">
       <g
          clip-path="url(#clipPath-670522636)"
