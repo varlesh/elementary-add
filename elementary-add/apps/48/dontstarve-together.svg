@@ -15,7 +15,7 @@
    id="svg4951"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="dontstarve.svg">
+   sodipodi:docname="dontstarve-together.svg">
   <defs
      id="defs4953">
     <radialGradient
@@ -27,15 +27,15 @@
        cx="23.896">
       <stop
          offset="0"
-         style="stop-color:#9f8ce3;stop-opacity:1"
+         style="stop-color:#e3e18c;stop-opacity:1"
          id="stop4366" />
       <stop
          offset="0.66093999"
-         style="stop-color:#585583;stop-opacity:1"
+         style="stop-color:#9a8e3e;stop-opacity:1"
          id="stop4368" />
       <stop
          offset="1"
-         style="stop-color:#6a45c4;stop-opacity:1"
+         style="stop-color:#cfa63a;stop-opacity:1"
          id="stop4370" />
     </radialGradient>
     <linearGradient
@@ -1377,7 +1377,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="9.95"
+     inkscape:zoom="1"
      inkscape:cx="36.447696"
      inkscape:cy="23.922233"
      inkscape:current-layer="layer1"
