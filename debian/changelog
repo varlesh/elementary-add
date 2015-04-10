@@ -1,3 +1,10 @@
+elementary-add-icon-theme (0.4.0-1ubuntu0) trusty; urgency=medium
+
+  * Fix icons tabletop, witcher2, nuclear-throne, quake4.
+  * Add icon terminator.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Fri, 10 Apr 2015 15:50:14 +0300
+
 elementary-add-icon-theme (0.3.9-1ubuntu9) trusty; urgency=medium
 
   * Add icons civiizationV, cscz, dontstarve-together, fa2pp, nuclear-throne, shellshock-live, tabletop, warhammerquest, wither2 & Steam symlinks.
