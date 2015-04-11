@@ -29,9 +29,9 @@
      inkscape:window-height="845"
      id="namedview46"
      showgrid="false"
-     inkscape:zoom="11.42"
-     inkscape:cx="25.817549"
-     inkscape:cy="25.62686"
+     inkscape:zoom="1"
+     inkscape:cx="26.01562"
+     inkscape:cy="21.845662"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
@@ -376,7 +376,7 @@
        xlink:href="#linearGradient3845"
        id="radialGradient3163"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.5944201e-8,1.9178783,-2.0288866,-3.5334639e-8,41.143707,-4.9006426)"
+       gradientTransform="matrix(1.5944201e-8,1.9178784,-2.0288868,-3.533464e-8,41.143707,-4.9006426)"
        cx="7.4956832"
        cy="8.4497671"
        fx="7.4956832"
@@ -398,7 +398,7 @@
        xlink:href="#linearGradient3895-9-0-3-7-3"
        id="linearGradient3165"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.82066178,0,0,0.82066177,4.3041109,5.3041192)"
+       gradientTransform="matrix(0.82066179,0,0,0.82066178,4.3041109,5.3041191)"
        x1="13.990655"
        y1="3.9626207"
        x2="13.990655"
@@ -434,7 +434,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -493,8 +493,13 @@
      height="39"
      width="39" />
   <path
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#radialGradient3163);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient3165);stroke-width:0.99317437;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-     d="m 9.7426271,8.9965849 c -0.9671574,0 -1.74604,0.7788832 -1.74604,1.7460421 l 0,28.514745 c -1e-7,0.967157 0.7788826,1.746041 1.74604,1.746041 l 28.5147459,0 c 0.967157,0 1.74604,-0.778883 1.74604,-1.746041 l 0,-28.514745 c 0,-0.9671589 -0.778882,-1.7460421 -1.74604,-1.7460421 l -28.5147459,0 z m 4.8494599,3.4295841 9.47627,0 c 6.150718,0.109333 9.868837,1.748919 9.868837,8.126702 0,6.122674 -4.36258,8.273183 -10.978177,8.273183 l -1.609326,0 0,4.300648 c 1.4304,0.328001 2.788926,0.838719 3.253807,1.421832 l -0.357411,3.025297 -9.654,0 -0.357411,-3.025297 c 0.3576,-0.473779 1.108497,-0.875088 1.966737,-1.203089 l 0,-16.655736 c -0.85824,-0.328 -1.609137,-0.764464 -1.966737,-1.238243 l 0.357411,-3.025297 z m 6.757604,3.972534 0,8.454817 2.396411,0 c 3.039598,0 4.827976,-1.02002 4.827976,-4.372912 0,-3.535115 -2.25293,-4.081905 -5.077968,-4.081905 l -2.146419,0 z"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#radialGradient3163);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient3165);stroke-width:0.999964;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+     d="M 10.191406,9.5 C 9.2546715,9.5 8.5,10.25467 8.5,11.191406 l 0,27.617188 C 8.4999999,39.745329 9.2546716,40.5 10.191406,40.5 l 27.617188,0 C 38.745328,40.5 39.5,39.74533 39.5,38.808594 l 0,-27.617188 C 39.5,10.25467 38.745329,9.5 37.808594,9.5 Z m 4.308594,5 11.59375,0 c 2.264178,0 4.063707,0.557954 5.400391,1.673828 1.336683,1.106497 2.005859,2.592943 2.005859,4.458984 0,1.875419 -0.673754,3.374749 -2.019531,4.5 -1.336684,1.115874 -3.131634,1.673829 -5.386719,1.673829 l -3.738281,0 0,6.992187 3.289062,0 0,1.701172 -11.144531,0 0,-1.701172 3,0 0,-17.597656 -3,0 z m 7.855469,1.701172 0,8.904297 1.529297,0 c 1.1821,0 2.122097,-0.402555 2.822265,-1.208985 0.70926,-0.815807 1.064453,-1.903993 1.064453,-3.263672 0,-1.350301 -0.350614,-2.423649 -1.050781,-3.220703 -0.700168,-0.806429 -1.644744,-1.210937 -2.835937,-1.210937 z"
      id="rect3071"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ssssssssscscscsccccccccccccscscsc" />
+  <g
+     transform="matrix(0.93773818,0,0,0.96702705,1.2000003,1.1363621)"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.78865051px;line-height:125%;font-family:serif;-inkscape-font-specification:'serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="text4206" />
 </svg>
