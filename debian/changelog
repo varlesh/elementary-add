@@ -1,3 +1,10 @@
+elementary-add-icon-theme (0.4.2-1ubuntu2) trusty; urgency=medium
+
+  * Fix icons evnc, flightgear, gajim, intel-installer, lazarus, maxthon-browser, mega, tweetdeck, virtualbox, vkaudiosaver.
+  * Add Steam symlink for deadfall icon.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Sun, 12 Apr 2015 08:21:19 +0300
+
 elementary-add-icon-theme (0.4.1-1ubuntu1) trusty; urgency=medium
 
   * More fixes.
