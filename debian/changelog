@@ -1,3 +1,9 @@
+elementary-add-icon-theme (0.4.3-1ubuntu3) trusty; urgency=medium
+
+  * Add icons showdesktop, bastion, fire, square-heroes, stardrive2 and Steam symlinks.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Sun, 12 Apr 2015 21:04:22 +0300
+
 elementary-add-icon-theme (0.4.2-1ubuntu2) trusty; urgency=medium
 
   * Fix icons evnc, flightgear, gajim, intel-installer, lazarus, maxthon-browser, mega, tweetdeck, virtualbox, vkaudiosaver.
