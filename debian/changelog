@@ -1,3 +1,10 @@
+elementary-add-icon-theme (0.4.6-6ubuntu6) trusty; urgency=medium
+
+  * Add icons gcolor2, chrome-https___www.wunderlist.com_webapp#_lists_inbox, chrome-hmjkmjkepdijhoojdojkdfohbdgmmhki-Default, phpstorm.
+  * Add icons syspeek for apps and panel.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Mon, 13 Apr 2015 19:43:37 +0300
+
 elementary-add-icon-theme (0.4.5-1ubuntu5) trusty; urgency=medium
 
   * Change icons gajim, pidgin, viber, showdesktop.
