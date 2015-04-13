@@ -1,3 +1,11 @@
+elementary-add-icon-theme (0.4.5-1ubuntu5) trusty; urgency=medium
+
+  * Change icons gajim, pidgin, viber, showdesktop.
+  * Add icons beyondgravity, exaile, radium, screencloud, talos, thg_logo, travnica and Steam symlinks.
+  * Move keepassx to "extra".
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Mon, 13 Apr 2015 16:35:17 +0300
+
 elementary-add-icon-theme (0.4.4-1ubuntu4) trusty; urgency=medium
 
   * Add icon for panel brasero, btsync-gui, keepassx, redshift, wiznote.
