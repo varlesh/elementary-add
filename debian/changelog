@@ -1,3 +1,10 @@
+elementary-add-icon-theme (0.4.7-1ubuntu7) trusty; urgency=medium
+
+  * Change icons caffeine, beyondgravity, dconf-editor, gconf-editor, my-weather-indicator, pavucontrol, tweetdeck.
+  * Add icons anomaly-warzone-earth, runner2, toki-tori, audiosurf2, legend-of-grimrock, VVVVVV.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Tue, 14 Apr 2015 12:30:39 +0300
+
 elementary-add-icon-theme (0.4.6-6ubuntu6) trusty; urgency=medium
 
   * Add icons gcolor2, chrome-https___www.wunderlist.com_webapp#_lists_inbox, chrome-hmjkmjkepdijhoojdojkdfohbdgmmhki-Default, phpstorm.
