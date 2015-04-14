@@ -29,8 +29,8 @@
      inkscape:window-height="845"
      id="namedview154"
      showgrid="false"
-     inkscape:zoom="5.71"
-     inkscape:cx="12.53203"
+     inkscape:zoom="12.239653"
+     inkscape:cx="9.9647601"
      inkscape:cy="19.405456"
      inkscape:window-x="0"
      inkscape:window-y="30"
@@ -792,7 +792,7 @@
        xlink:href="#linearGradient3765"
        id="radialGradient3037"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-1.7922484,4.7450628e-8,-3.529013e-8,-1.3329366,41.58142,-41.248313)"
+       gradientTransform="matrix(-1.438655,3.8089076e-8,-2.8327727e-8,-1.069961,45.16851,-14.595749)"
        cx="14.891734"
        cy="-17.680855"
        fx="14.891734"
@@ -817,7 +817,8 @@
        x1="15.123692"
        y1="-18.801283"
        x2="15.123692"
-       y2="32.56842" />
+       y2="32.56842"
+       gradientTransform="matrix(0.76417715,0,0,0.76417715,12.376786,18.777865)" />
     <linearGradient
        id="linearGradient3775">
       <stop
@@ -1370,7 +1371,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1424,215 +1425,113 @@
   <g
      id="g4374"
      transform="matrix(0.0824541,0,0,0.08293356,6.9999995,10.924363)" />
+  <path
+     style="fill:url(#radialGradient3302);fill-opacity:1;stroke:none"
+     id="path3818-0-5"
+     inkscape:connector-curvature="0"
+     d="m 41,41.5 a 17,5.4999999 0 0 1 -34,0 17,5.4999999 0 1 1 34,0 z" />
+  <circle
+     r="20.525774"
+     cy="24.000006"
+     cx="24"
+     style="fill:url(#radialGradient3037);fill-opacity:1;stroke:none"
+     id="path2985" />
+  <circle
+     r="20.525774"
+     cy="24.000006"
+     cx="24"
+     id="path3755"
+     style="fill:none;stroke:#828282;stroke-width:0.94845384;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.58823529" />
+  <circle
+     r="19.540474"
+     cy="23.999889"
+     cx="24"
+     style="fill:none;stroke:url(#linearGradient3039);stroke-width:0.93261218;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.58823529"
+     id="path3773" />
   <g
-     id="g4863">
-    <path
-       d="m 41,41.5 a 17,5.4999999 0 0 1 -34,0 17,5.4999999 0 1 1 34,0 z"
-       inkscape:connector-curvature="0"
-       id="path3818-0-5"
-       style="fill:url(#radialGradient3302);fill-opacity:1;stroke:none" />
-    <path
-       transform="matrix(0.80270962,0,0,0.80270962,11.790704,18.514669)"
-       d="m 40.780711,6.8335247 a 25.570608,25.570608 0 1 1 -51.141216,0 25.570608,25.570608 0 1 1 51.141216,0 z"
-       sodipodi:ry="25.570608"
-       sodipodi:rx="25.570608"
-       sodipodi:cy="6.8335247"
-       sodipodi:cx="15.210103"
-       id="path2985"
-       style="fill:url(#radialGradient3037);fill-opacity:1;stroke:none"
-       sodipodi:type="arc" />
-    <path
-       sodipodi:type="arc"
-       style="fill:none;stroke:#828282;stroke-width:1.18156528;stroke-miterlimit:4;stroke-opacity:0.58823529;stroke-dasharray:none"
-       id="path3755"
-       sodipodi:cx="15.210103"
-       sodipodi:cy="6.8335247"
-       sodipodi:rx="25.570608"
-       sodipodi:ry="25.570608"
-       d="m 40.780711,6.8335247 a 25.570608,25.570608 0 1 1 -51.141216,0 25.570608,25.570608 0 1 1 51.141216,0 z"
-       transform="matrix(0.80270962,0,0,0.80270962,11.790704,18.514669)" />
+     id="g4807"
+     transform="matrix(1.1044464,0,0,1.1104299,-2.506713,-2.6503181)">
     <g
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1;opacity:0.15"
-       id="g4841"
-       transform="matrix(1.1044464,0,0,1.1104299,-2.506713,-1.6503245)">
-      <g
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-         id="g4843"
-         transform="matrix(0.05145474,0,0,0.05143103,11.783533,34.493345)">
-        <path
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-           d="m 252.08304,-404.42707 20.3639,89.35731 -45.26275,70.62601 -71.20287,-44.08432 -20.3639,-89.35731 z"
-           id="path4845"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccc"
-           inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
-           inkscape:export-xdpi="135"
-           inkscape:export-ydpi="135" />
-        <path
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-           d="m 35.98124,-220.12028 89.35729,-20.3639 70.62602,45.26275 -44.08432,71.20287 -89.357296,20.36389 z"
-           id="path4847"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccc"
-           inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
-           inkscape:export-xdpi="135"
-           inkscape:export-ydpi="135" />
-        <path
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-           d="m 220.9091,-3.6279322 -20.3639,-89.3573068 45.26275,-70.626021 71.20287,44.08432 20.3639,89.357314 z"
-           id="path4849"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccc"
-           inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
-           inkscape:export-xdpi="135"
-           inkscape:export-ydpi="135" />
-        <path
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-           d="m 438.86195,-188.35657 -89.35731,20.36391 -70.62601,-45.26276 44.08432,-71.20286 89.35731,-20.3639 z"
-           id="path4851"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccc"
-           inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
-           inkscape:export-xdpi="135"
-           inkscape:export-ydpi="135" />
-      </g>
-      <g
-         transform="matrix(0.05145474,0,0,0.05143103,11.783533,34.493345)"
-         id="g4853"
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:19.43903542;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-        <path
-           inkscape:export-ydpi="135"
-           inkscape:export-xdpi="135"
-           inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
-           sodipodi:nodetypes="cccccc"
-           inkscape:connector-curvature="0"
-           id="path4855"
-           d="m 252.08304,-404.42707 20.3639,89.35731 -45.26275,70.62601 -71.20287,-44.08432 -20.3639,-89.35731 z"
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:19.43903542;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           inkscape:export-ydpi="135"
-           inkscape:export-xdpi="135"
-           inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
-           sodipodi:nodetypes="cccccc"
-           inkscape:connector-curvature="0"
-           id="path4857"
-           d="m 35.98124,-220.12028 89.35729,-20.3639 70.62602,45.26275 -44.08432,71.20287 -89.357296,20.36389 z"
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:19.43903542;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           inkscape:export-ydpi="135"
-           inkscape:export-xdpi="135"
-           inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
-           sodipodi:nodetypes="cccccc"
-           inkscape:connector-curvature="0"
-           id="path4859"
-           d="m 220.9091,-3.6279322 -20.3639,-89.3573068 45.26275,-70.626021 71.20287,44.08432 20.3639,89.357314 z"
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:19.43903542;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           inkscape:export-ydpi="135"
-           inkscape:export-xdpi="135"
-           inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
-           sodipodi:nodetypes="cccccc"
-           inkscape:connector-curvature="0"
-           id="path4861"
-           d="m 438.86195,-188.35657 -89.35731,20.36391 -70.62601,-45.26276 44.08432,-71.20286 89.35731,-20.3639 z"
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:19.43903542;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      </g>
+       style="fill:url(#linearGradient3973);fill-opacity:1"
+       id="g3020-0"
+       transform="matrix(0.05145474,0,0,0.05143103,11.783533,34.493345)">
+      <path
+         style="fill:url(#linearGradient3965);fill-opacity:1;stroke:none"
+         d="m 252.08304,-404.42707 20.3639,89.35731 -45.26275,70.62601 -71.20287,-44.08432 -20.3639,-89.35731 z"
+         id="rect4891-0-5-9"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc"
+         inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
+         inkscape:export-xdpi="135"
+         inkscape:export-ydpi="135" />
+      <path
+         style="fill:url(#linearGradient3967);fill-opacity:1;stroke:none"
+         d="m 35.98124,-220.12028 89.35729,-20.3639 70.62602,45.26275 -44.08432,71.20287 -89.357296,20.36389 z"
+         id="rect4891-0-3-4"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc"
+         inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
+         inkscape:export-xdpi="135"
+         inkscape:export-ydpi="135" />
+      <path
+         style="fill:url(#linearGradient3969);fill-opacity:1;stroke:none"
+         d="m 220.9091,-3.6279322 -20.3639,-89.3573068 45.26275,-70.626021 71.20287,44.08432 20.3639,89.357314 z"
+         id="rect4891-0-5-2-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc"
+         inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
+         inkscape:export-xdpi="135"
+         inkscape:export-ydpi="135" />
+      <path
+         style="fill:url(#linearGradient3971);fill-opacity:1;stroke:none"
+         d="m 438.86195,-188.35657 -89.35731,20.36391 -70.62601,-45.26276 44.08432,-71.20286 89.35731,-20.3639 z"
+         id="rect4891-0-3-3-8"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc"
+         inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
+         inkscape:export-xdpi="135"
+         inkscape:export-ydpi="135" />
     </g>
-    <path
-       transform="matrix(0.76417715,0,0,0.76417715,12.376786,18.777865)"
-       d="m 40.780711,6.8335247 a 25.570608,25.570608 0 1 1 -51.141216,0 25.570608,25.570608 0 1 1 51.141216,0 z"
-       sodipodi:ry="25.570608"
-       sodipodi:rx="25.570608"
-       sodipodi:cy="6.8335247"
-       sodipodi:cx="15.210103"
-       id="path3773"
-       style="fill:none;stroke:url(#linearGradient3039);stroke-width:1.22041357;stroke-miterlimit:4;stroke-opacity:0.58823529;stroke-dasharray:none"
-       sodipodi:type="arc" />
     <g
-       transform="matrix(1.1044464,0,0,1.1104299,-2.506713,-2.6503181)"
-       id="g4807">
-      <g
-         transform="matrix(0.05145474,0,0,0.05143103,11.783533,34.493345)"
-         id="g3020-0"
-         style="fill:url(#linearGradient3973);fill-opacity:1">
-        <path
-           inkscape:export-ydpi="135"
-           inkscape:export-xdpi="135"
-           inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
-           sodipodi:nodetypes="cccccc"
-           inkscape:connector-curvature="0"
-           id="rect4891-0-5-9"
-           d="m 252.08304,-404.42707 20.3639,89.35731 -45.26275,70.62601 -71.20287,-44.08432 -20.3639,-89.35731 z"
-           style="fill:url(#linearGradient3965);fill-opacity:1;stroke:none" />
-        <path
-           inkscape:export-ydpi="135"
-           inkscape:export-xdpi="135"
-           inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
-           sodipodi:nodetypes="cccccc"
-           inkscape:connector-curvature="0"
-           id="rect4891-0-3-4"
-           d="m 35.98124,-220.12028 89.35729,-20.3639 70.62602,45.26275 -44.08432,71.20287 -89.357296,20.36389 z"
-           style="fill:url(#linearGradient3967);fill-opacity:1;stroke:none" />
-        <path
-           inkscape:export-ydpi="135"
-           inkscape:export-xdpi="135"
-           inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
-           sodipodi:nodetypes="cccccc"
-           inkscape:connector-curvature="0"
-           id="rect4891-0-5-2-7"
-           d="m 220.9091,-3.6279322 -20.3639,-89.3573068 45.26275,-70.626021 71.20287,44.08432 20.3639,89.357314 z"
-           style="fill:url(#linearGradient3969);fill-opacity:1;stroke:none" />
-        <path
-           inkscape:export-ydpi="135"
-           inkscape:export-xdpi="135"
-           inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
-           sodipodi:nodetypes="cccccc"
-           inkscape:connector-curvature="0"
-           id="rect4891-0-3-3-8"
-           d="m 438.86195,-188.35657 -89.35731,20.36391 -70.62601,-45.26276 44.08432,-71.20286 89.35731,-20.3639 z"
-           style="fill:url(#linearGradient3971);fill-opacity:1;stroke:none" />
-      </g>
-      <g
-         style="fill:none;fill-opacity:1;stroke:#5587a3;stroke-width:19.43903542;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="g4797"
-         transform="matrix(0.05145474,0,0,0.05143103,11.783533,34.493345)">
-        <path
-           style="fill:none;fill-opacity:1;stroke:#5587a3;stroke-width:19.43903542;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 252.08304,-404.42707 20.3639,89.35731 -45.26275,70.62601 -71.20287,-44.08432 -20.3639,-89.35731 z"
-           id="path4799"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccc"
-           inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
-           inkscape:export-xdpi="135"
-           inkscape:export-ydpi="135" />
-        <path
-           style="fill:none;fill-opacity:1;stroke:#5587a3;stroke-width:19.43903542;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 35.98124,-220.12028 89.35729,-20.3639 70.62602,45.26275 -44.08432,71.20287 -89.357296,20.36389 z"
-           id="path4801"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccc"
-           inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
-           inkscape:export-xdpi="135"
-           inkscape:export-ydpi="135" />
-        <path
-           style="fill:none;fill-opacity:1;stroke:#5587a3;stroke-width:19.43903542;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 220.9091,-3.6279322 -20.3639,-89.3573068 45.26275,-70.626021 71.20287,44.08432 20.3639,89.357314 z"
-           id="path4803"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccc"
-           inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
-           inkscape:export-xdpi="135"
-           inkscape:export-ydpi="135" />
-        <path
-           style="fill:none;fill-opacity:1;stroke:#5587a3;stroke-width:19.43903542;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 438.86195,-188.35657 -89.35731,20.36391 -70.62601,-45.26276 44.08432,-71.20286 89.35731,-20.3639 z"
-           id="path4805"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccc"
-           inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
-           inkscape:export-xdpi="135"
-           inkscape:export-ydpi="135" />
-      </g>
+       transform="matrix(0.05145474,0,0,0.05143103,11.783533,34.493345)"
+       id="g4797"
+       style="fill:none;fill-opacity:1;stroke:#5587a3;stroke-width:19.43903542;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         inkscape:export-ydpi="135"
+         inkscape:export-xdpi="135"
+         inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path4799"
+         d="m 252.08304,-404.42707 20.3639,89.35731 -45.26275,70.62601 -71.20287,-44.08432 -20.3639,-89.35731 z"
+         style="fill:none;fill-opacity:1;stroke:#5587a3;stroke-width:19.43903542;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="135"
+         inkscape:export-xdpi="135"
+         inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path4801"
+         d="m 35.98124,-220.12028 89.35729,-20.3639 70.62602,45.26275 -44.08432,71.20287 -89.357296,20.36389 z"
+         style="fill:none;fill-opacity:1;stroke:#5587a3;stroke-width:19.43903542;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="135"
+         inkscape:export-xdpi="135"
+         inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path4803"
+         d="m 220.9091,-3.6279322 -20.3639,-89.3573068 45.26275,-70.626021 71.20287,44.08432 20.3639,89.357314 z"
+         style="fill:none;fill-opacity:1;stroke:#5587a3;stroke-width:19.43903542;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="135"
+         inkscape:export-xdpi="135"
+         inkscape:export-filename="D:\Dev\Emulatorer\potemkin\android\source_assets\image\dir.png"
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="path4805"
+         d="m 438.86195,-188.35657 -89.35731,20.36391 -70.62601,-45.26276 44.08432,-71.20286 89.35731,-20.3639 z"
+         style="fill:none;fill-opacity:1;stroke:#5587a3;stroke-width:19.43903542;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>
