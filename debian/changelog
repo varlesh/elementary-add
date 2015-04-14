@@ -1,3 +1,9 @@
+elementary-add-icon-theme (0.4.8-1ubuntu8) trusty; urgency=medium
+
+  * Fix icons firefox, gcolor2, gwoffice, intellij, ppsspp, robocraft, thg_logo, thunderbird, toki-tori, witcher2.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Tue, 14 Apr 2015 15:32:59 +0300
+
 elementary-add-icon-theme (0.4.7-1ubuntu7) trusty; urgency=medium
 
   * Change icons caffeine, beyondgravity, dconf-editor, gconf-editor, my-weather-indicator, pavucontrol, tweetdeck.
