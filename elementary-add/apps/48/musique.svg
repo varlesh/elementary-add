@@ -988,15 +988,15 @@
        gradientTransform="matrix(0,1.2316483,-1.625754,0,18.486966,-28.721977)">
       <stop
          id="stop3244-9-33-7-0-6"
-         style="stop-color:#44d3ff;stop-opacity:1"
+         style="stop-color:#69bfda;stop-opacity:1"
          offset="0" />
       <stop
          id="stop3248-1-7-8-8-6"
-         style="stop-color:#0c91ff;stop-opacity:1"
+         style="stop-color:#488bc3;stop-opacity:1"
          offset="0.66093999" />
       <stop
          id="stop3250-9-3-0-5-2"
-         style="stop-color:#0051cb;stop-opacity:1"
+         style="stop-color:#1e57ad;stop-opacity:1"
          offset="1" />
     </radialGradient>
     <radialGradient
@@ -1201,8 +1201,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="11.007408"
+     inkscape:zoom="6.1198265"
+     inkscape:cx="12.5009"
      inkscape:cy="23.923541"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1221,7 +1221,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

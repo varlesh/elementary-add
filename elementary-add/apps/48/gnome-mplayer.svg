@@ -14,8 +14,8 @@
    width="48"
    height="48"
    id="svg4910"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="smplayer.svg">
+   inkscape:version="0.91 r"
+   sodipodi:docname="gnome-mplayer.svg">
   <sodipodi:namedview
      pagecolor="#000000"
      bordercolor="#666666"
@@ -30,7 +30,7 @@
      id="namedview119"
      showgrid="false"
      inkscape:zoom="10.57"
-     inkscape:cx="-5.3725133"
+     inkscape:cx="19.178808"
      inkscape:cy="23.526182"
      inkscape:window-x="0"
      inkscape:window-y="30"
@@ -38,6 +38,36 @@
      inkscape:current-layer="svg4910" />
   <defs
      id="defs4912">
+    <linearGradient
+       id="linearGradient4273">
+      <stop
+         offset="0"
+         style="stop-color:#91eb8b;stop-opacity:1"
+         id="stop4275" />
+      <stop
+         offset="0.26238"
+         style="stop-color:#73c76b;stop-opacity:1"
+         id="stop4277" />
+      <stop
+         offset="0.66093999"
+         style="stop-color:#33b94b;stop-opacity:1"
+         id="stop4279" />
+      <stop
+         offset="1"
+         style="stop-color:#1a6410;stop-opacity:1"
+         id="stop4281" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4267">
+      <stop
+         offset="0"
+         style="stop-color:#1b702a;stop-opacity:1"
+         id="stop4269" />
+      <stop
+         offset="1"
+         style="stop-color:#4fb55f;stop-opacity:1"
+         id="stop4271" />
+    </linearGradient>
     <linearGradient
        x1="526.91669"
        y1="812.36218"
@@ -584,7 +614,7 @@
        gradientTransform="matrix(0.49667601,0,0,0.50834023,-313.41781,-210.18268)" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3242-4"
+       xlink:href="#linearGradient4273"
        id="radialGradient3155"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(2.1486843e-8,2.3305413,-2.7341834,-4.2937466e-8,47.246549,-11.359558)"
@@ -595,7 +625,7 @@
        r="19.99999" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient2490-1"
+       xlink:href="#linearGradient4267"
        id="linearGradient3157"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.1059464,0,0,0.99724061,-2.3994981,1.0409283)"
@@ -672,7 +702,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
