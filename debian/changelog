@@ -1,3 +1,19 @@
+elementary-add-icon-theme (0.5.0-1ubuntu0) trusty; urgency=medium
+
+  * Fix icons mpv, gnome-mplayer, musique, opera, steam, vlc.
+  * Add icons asa, awesomenauts, firefox-trunk, google-chrome-unstable, hand-of-hate, interstellar-marines, julia, opera-netx-browser, the-banner-saga, vocal and some Steam links.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Sun, 19 Apr 2015 01:13:40 +0300
+
+elementary-add-icon-theme (0.4.9-1ubuntu9) trusty; urgency=medium
+
+  * Moved icons and folders in "extra" (telegram, grive-tools, my-weather-indicator) & add additional icons.
+  * Fix icons audiosurf2, intellij, mc, photoshop.
+  * Change icon media-removable.
+  * Add icons virt-manager, vivaldi.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Wed, 15 Apr 2015 09:25:08 +0300
+
 elementary-add-icon-theme (0.4.8-1ubuntu8) trusty; urgency=medium
 
   * Fix icons firefox, gcolor2, gwoffice, intellij, ppsspp, robocraft, thg_logo, thunderbird, toki-tori, witcher2.
