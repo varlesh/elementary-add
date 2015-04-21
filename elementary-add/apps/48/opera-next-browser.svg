@@ -30,7 +30,7 @@
      id="namedview154"
      showgrid="false"
      inkscape:zoom="8.6599296"
-     inkscape:cx="22.138497"
+     inkscape:cx="4.7596028"
      inkscape:cy="24.860241"
      inkscape:window-x="0"
      inkscape:window-y="30"
@@ -2060,7 +2060,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2090,19 +2090,19 @@
   <g
      id="g4798"
      transform="matrix(0.28666697,0,0,-0.28703043,-47.531956,97.581125)"
-     style="fill:#3c75da;fill-opacity:1">
+     style="fill:#4c8cff;fill-opacity:1">
     <g
        id="g4800"
-       style="fill:#3c75da;fill-opacity:1">
+       style="fill:#4c8cff;fill-opacity:1">
       <g
          id="g4802"
-         style="fill:#3c75da;fill-opacity:1">
+         style="fill:#4c8cff;fill-opacity:1">
         <g
            id="g4804"
-           style="fill:#3c75da;fill-opacity:1">
+           style="fill:#4c8cff;fill-opacity:1">
           <path
              id="path4806"
-             style="fill:#3c75da;fill-opacity:1;stroke:none"
+             style="fill:#4c8cff;fill-opacity:1;stroke:none"
              d="m 184.995,260.555 c 0,-37.755 26.508,-72.139 66.281,-72.139 l 0,0 c 39.776,0 66.277,34.384 66.277,72.139 l 0,0 c 0,42.431 -27.281,70.703 -66.277,70.703 l 0,0 c -39.002,0 -66.281,-28.272 -66.281,-70.703 m 39.17,1.585 c 0,28.512 4.605,60.009 27.113,60.009 l 0,0 c 22.506,0 27.072,-31.831 27.072,-60.344 l 0,0 c 0,-26.413 -2.81,-62.401 -27.072,-62.401 l 0,0 c -24.264,0 -27.113,36.326 -27.113,62.736"
              inkscape:connector-curvature="0" />
         </g>
