@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
+   width="24"
+   height="24"
    version="1.1"
    id="svg2"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="caffeine-cup-full.svg">
+   inkscape:version="0.91 r"
+   sodipodi:docname="caffeine-cup-empty.svg">
   <defs
      id="defs18" />
   <sodipodi:namedview
@@ -28,8 +28,8 @@
      inkscape:window-height="845"
      id="namedview16"
      showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="11"
+     inkscape:zoom="12.239653"
+     inkscape:cx="-3.0296607"
      inkscape:cy="11"
      inkscape:window-x="0"
      inkscape:window-y="30"
@@ -51,12 +51,12 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(0,6)">
+     transform="translate(0,8)">
     <path
        style="color:#000000;fill:#ffffff"
        sodipodi:nodetypes="scccscscccsccscccc"
        inkscape:connector-curvature="0"
        id="path4274"
-       d="m 4,7 c 0,3 2,5 5,5 l 2,0 c 3,0 4.75982,-1.56569 4.95898,-4 L 16.5,8 C 18,8 18,6.5 18,6.5 l 0,-1 C 18,4 16.5,4 16.5,4 L 16,4 4,4 z M 16.5,5 c 0.5,-0.0323 0.51562,0.53125 0.51562,0.53125 l 0,1 C 17.01562,7 16.5,7 16.5,7 L 16,7 16.008,5.01562 z" />
+       d="M 4,5.0000002 C 4,8 6.285714,10 9.714286,10 L 12,10 c 3.42858,0 5.4398,-1.565681 5.6674,-3.9999991 l 0.61832,0 C 20,6.0000009 20,4.5000008 20,4.5000008 L 20,3.5000001 C 20,2 18.28572,2 18.28572,2 L 17.71428,2 4,2 Z M 18.28572,3.0000007 C 18.85714,2.9676957 18.875,3.5312499 18.875,3.5312499 l 0,1.0000006 c 0,0.4687497 -0.58928,0.4687497 -0.58928,0.4687497 l -0.57144,0 0.01,-1.984379 z" />
   </g>
 </svg>
