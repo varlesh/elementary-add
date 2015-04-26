@@ -25,15 +25,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="845"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
      id="namedview119"
      showgrid="false"
      inkscape:zoom="7.54"
-     inkscape:cx="23.125605"
-     inkscape:cy="24"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:cx="3.3643318"
+     inkscape:cy="23.734748"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4910" />
   <defs
@@ -465,17 +465,10 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#radialGradient4906);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient4908);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-     id="rect4349"
-     y="5.5"
-     x="14.5"
-     height="39"
-     width="19" />
   <g
      style="display:inline"
      id="g2036"
@@ -508,6 +501,13 @@
          width="28" />
     </g>
   </g>
+  <rect
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#radialGradient4906);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient4908);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+     id="rect4349"
+     y="5.5"
+     x="14.5"
+     height="39"
+     width="19" />
   <path
      style="opacity:0.05;fill:url(#linearGradient4453-6);fill-opacity:1;fill-rule:evenodd;stroke:none"
      id="path4428-2"

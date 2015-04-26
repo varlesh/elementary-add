@@ -1,3 +1,44 @@
+elementary-add-icon-theme (0.5.5-1ubuntu5) trusty; urgency=medium
+
+  * Fix icons bomi, gnome-mplayer, minitube, vlc.
+  * Add icon trine3.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Sun, 26 Apr 2015 12:15:39 +0300
+
+elementary-add-icon-theme (0.5.4-1ubuntu4) trusty; urgency=medium
+
+  * Fix size icons for pomodoro-indicator and caffeine for panel.
+  * Fix more icons.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Fri, 24 Apr 2015 15:05:32 +0300
+
+elementary-add-icon-theme (0.5.3-1ubuntu3) trusty; urgency=medium
+
+  * Add some gxneur icons for panel.
+  * Fix icons dconf-editor, gconf-editor, urbanterror.
+  * Add icons for door-kickers, gnome-search-tool.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Wed, 22 Apr 2015 23:46:06 +0300
+
+elementary-add-icon-theme (0.5.2-1ubuntu2) trusty; urgency=medium
+
+  * Add icons Spotify for panel to "extra"
+  * Add icons 2gis, codeblocks, gxneur
+  * Fix icons firefox and opera-next-browser
+  * Add symlinks for gnome-volume-control and gnome-mime-application-x-deb
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Wed, 22 Apr 2015 00:39:38 +0300
+
+elementary-add-icon-theme (0.5.1-1ubuntu1) trusty; urgency=medium
+
+  * Add Places icons (for fix PcManFM)
+  * Fix symlink user-bookmarks, moved folder-icon from apps to places. Modified color for some icons folder.
+  * Add icons dropbox, crea, tab-new, gcolor3, gnome-pie, hexcells-infinite, tropico5, xcom-eu.
+  * Change icon google-chrome-unstable.
+  * Add info for "Places" to index.theme.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Mon, 20 Apr 2015 16:00:35 +0300
+
 elementary-add-icon-theme (0.5.0-1ubuntu0) trusty; urgency=medium
 
   * Fix icons mpv, gnome-mplayer, musique, opera, steam, vlc.
