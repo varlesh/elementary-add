@@ -1,3 +1,11 @@
+elementary-add-icon-theme (0.5.6-1ubuntu6) trusty; urgency=medium
+
+  * Fix ions xonotic, worms-reloaded, wasteland2, yandex-browser-beta, vmplayer, yd-128, tomahawk, synapse, uget,  skype, firefox, firefox-trunk, crossover, bitwig-studio, browser-tor, tor-browser-en, tor-browser-ru, chrome-https___www.wunderlist.com_webapp#_lists_inbox, darktable, gxneur, gwoffice, hexcells-infinite,  ubuntu-tweak, libreoffice-base.
+  * Change icons skype-call-recorder, atom, viber, tweetdeck.
+  * Add icons slimjet, ziggurat, verdun.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Mon, 04 May 2015 05:53:59 +0300
+
 elementary-add-icon-theme (0.5.5-1ubuntu5) trusty; urgency=medium
 
   * Fix icons bomi, gnome-mplayer, minitube, vlc.
