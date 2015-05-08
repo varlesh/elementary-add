@@ -1,3 +1,10 @@
+elementary-add-icon-theme (0.5.7-1ubuntu7) trusty; urgency=medium
+
+  * Add icons haguichi, obs.
+  * Fix icons VVVVVV, door-kickers, geany, paromplayer, gtkpod, hon, lightworks, nootka, playonlinux, browser-tor.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Fri, 08 May 2015 22:54:40 +0300
+
 elementary-add-icon-theme (0.5.6-1ubuntu6) trusty; urgency=medium
 
   * Fix ions xonotic, worms-reloaded, wasteland2, yandex-browser-beta, vmplayer, yd-128, tomahawk, synapse, uget,  skype, firefox, firefox-trunk, crossover, bitwig-studio, browser-tor, tor-browser-en, tor-browser-ru, chrome-https___www.wunderlist.com_webapp#_lists_inbox, darktable, gxneur, gwoffice, hexcells-infinite,  ubuntu-tweak, libreoffice-base.
