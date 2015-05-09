@@ -15,7 +15,7 @@
    height="48"
    id="svg3143"
    inkscape:version="0.91 r"
-   sodipodi:docname="tweetdeck2.svg">
+   sodipodi:docname="tweetdeck.svg">
   <sodipodi:namedview
      pagecolor="#7b7b7b"
      bordercolor="#666666"
@@ -25,15 +25,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1535"
-     inkscape:window-height="876"
+     inkscape:window-width="1600"
+     inkscape:window-height="842"
      id="namedview46"
      showgrid="false"
      inkscape:zoom="6.57"
-     inkscape:cx="20.010583"
+     inkscape:cx="-9.3653683"
      inkscape:cy="18.921938"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-x="-4"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3143"
      showguides="false" />
@@ -1707,19 +1707,6 @@
        y1="12.908117"
        x2="32.105118"
        y2="46.584076" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter5759"
-       x="-0.071538462"
-       width="1.1430769"
-       y="-0.372"
-       height="1.744">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.1625"
-         id="feGaussianBlur5761" />
-    </filter>
     <linearGradient
        gradientTransform="matrix(1.054054,0,0,1.054054,-104.83474,-2.40741)"
        gradientUnits="userSpaceOnUse"
@@ -1866,16 +1853,10 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <path
-     style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5759)"
-     d="M 44,38.5 10.999999,46 5,38.5 Z"
-     id="path4849"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccc" />
   <path
      style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#radialGradient3053);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;enable-background:accumulate"
      d="m 6.5,5.4999924 35,0 c 1.108,0 2,0.892 2,2 L 43.5,36.5 c 0,1.108 -0.898777,1.877642 -2,2 l -27,0 -3.5,6 -3.5,-6 -1,0 c -1.108,0 -2,-0.892 -2,-2 l 0,-29.0000076 c 0,-1.108 0.892,-2 2,-2 z"

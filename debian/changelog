@@ -1,3 +1,10 @@
+elementary-add-icon-theme (0.5.8-1ubuntu8) trusty; urgency=medium
+
+  * Final release!
+  * Fix icons dosbox, dukto, hand-of-hate, kerbal-space-program, kodi, libreoffice-draw, minitube, modem-manager-gui, motorbike, nexuiz, nootka, opera, opera-next-browser, radium, rakarrack, slender, spotify-client, spingseed, stelarium, sublime-text, tf2, tweetdeck, viber.
+
+ -- Alexey Varfolomeev <varlesh@gmail.com>  Sat, 09 May 2015 12:51:03 +0300
+
 elementary-add-icon-theme (0.5.7-1ubuntu7) trusty; urgency=medium
 
   * Add icons haguichi, obs.

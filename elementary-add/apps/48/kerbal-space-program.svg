@@ -26,18 +26,30 @@
      inkscape:pageopacity="0.74509804"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="845"
+     inkscape:window-height="842"
      id="namedview154"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="19.918373"
-     inkscape:cy="28.466634"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:zoom="10.66"
+     inkscape:cx="10.152316"
+     inkscape:cy="22.802778"
+     inkscape:window-x="-4"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4951" />
   <defs
      id="defs4953">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4496">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4498" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4500" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4515">
@@ -1465,19 +1477,6 @@
        y2="36.715519"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-0.10346588,0)" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter4507"
-       x="-0.59107075"
-       width="2.1821415"
-       y="-0.10201221"
-       height="1.2040244">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.90280347"
-         id="feGaussianBlur4509" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4515"
@@ -1496,6 +1495,17 @@
        x2="31.678747"
        y2="24.338308"
        gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4496"
+       id="radialGradient4502"
+       cx="23.935311"
+       cy="24.981133"
+       fx="23.935311"
+       fy="24.981133"
+       r="1.8328841"
+       gradientTransform="matrix(1,0,0,5.7941179,0,-119.7625)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata4956">
@@ -1510,7 +1520,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="g4531">
+     id="g4504">
     <path
        d="m 41,41.5 a 17,5.4999999 0 0 1 -34,0 17,5.4999999 0 1 1 34,0 z"
        inkscape:connector-curvature="0"
@@ -1523,14 +1533,14 @@
        cy="24"
        r="20.525774" />
     <circle
-       style="fill:none;stroke:#242424;stroke-width:0.94845384;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0.6"
+       style="opacity:0.6;fill:none;stroke:#242424;stroke-width:0.94845384;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path3755-9"
        cx="24"
        cy="24"
        r="20.525774" />
     <circle
        id="path3773-9"
-       style="fill:none;stroke:url(#linearGradient4450);stroke-width:0.93261218;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.58823529;opacity:0.6"
+       style="opacity:0.6;fill:none;stroke:url(#linearGradient4450);stroke-width:0.93261218;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.58823529"
        cx="24"
        cy="23.999884"
        r="19.540474" />
@@ -1548,7 +1558,7 @@
        height="21.239893"
        width="3.6657681"
        id="rect4405"
-       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4507)" />
+       style="opacity:0.2;fill:url(#radialGradient4502);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="sscsscs"
        inkscape:connector-curvature="0"
