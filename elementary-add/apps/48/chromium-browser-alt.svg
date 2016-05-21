@@ -1,40 +1,157 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg4031" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <defs id="defs4033">
-  <radialGradient id="radialGradient3018" gradientUnits="userSpaceOnUse" cy="186.17" cx="99.157" gradientTransform="matrix(.27083 0 0 .087623 -2.8551 25.187)" r="62.769">
-   <stop id="stop3822-2-6-3" stop-color="#3d3d3d" offset="0"/>
-   <stop id="stop3864-8-7-7" stop-color="#686868" stop-opacity=".49804" offset=".5"/>
-   <stop id="stop3824-1-2-5" stop-color="#686868" stop-opacity="0" offset="1"/>
-  </radialGradient>
-  <linearGradient id="linearGradient5069" y2="32.568" gradientUnits="userSpaceOnUse" x2="15.124" gradientTransform="matrix(.76259 0 0 .76259 12.401 18.789)" y1="-18.801" x1="15.124">
-   <stop id="stop4577" stop-color="#fff" offset="0"/>
-   <stop id="stop4579" stop-color="#fff" stop-opacity="0" offset="1"/>
-  </linearGradient>
- </defs>
- <metadata id="metadata4036">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="g5132">
-  <path id="path3818-0-5" fill="url(#radialGradient3018)" d="m41 41.5a17 5.5 0 1 1 -34 0 17 5.5 0 1 1 34 0z"/>
-  <circle id="circle4564" style="color:#000000" cx="24.066" cy="24.332" r="9.5" fill="#fff"/>
-  <path id="path39-4" d="m6.9812 12.518a20.554 20.549 0 0 0 15.416 31.924l8.6253-14.678a9.1758 9.1735 0 0 1 -15.782 -2.9355" fill="#89b7e1"/>
-  <path id="path4497" d="m7.1076 12.407c-8.9619 13.127-0.2751 31.021 15.579 32.093 0 0 4.6564-0.3012 8.0918-6.4251s1.1758-9.6268 1.1758-9.6268c-3.8548 6.6065-13.624 5.8747-16.449-1.2322" fill="#89b7e1"/>
-  <path id="path4495" d="m42.526 15.101c-6.887-14.324-26.727-15.748-35.583-2.554 0 0-2.0674 4.1832 1.5184 10.22 3.5858 6.0371 7.7492 5.8317 7.7492 5.8317-3.794-6.6417 1.7243-14.736 9.2914-13.629" fill="#668fb6"/>
-  <path id="path41-4" d="m22.397 44.442c15.849 1.1979 27.002-15.272 20.003-29.539 0 0-2.5891-3.882-9.6102-3.7952-7.0212 0.08684-8.925 3.7952-8.925 3.7952 7.6488 0.03513 11.9 8.8613 7.1572 14.861" fill="#c5daf5"/>
-  <path id="path4499" d="m10.902 39.803c3.145 2.6401 7.1602 4.3845 11.786 4.6972 0 0 4.6564-0.3012 8.0918-6.4251s1.1758-9.6268 1.1758-9.6268c-2.9632 5.0784-9.421 5.8206-13.533 2.6642" fill="#89b7e1"/>
-  <path id="path2555-6" opacity=".5" stroke-linejoin="round" style="color:#000000" d="m24 3.5c-11.311 0-20.5 9.1888-20.5 20.5s9.1888 20.5 20.5 20.5 20.5-9.1888 20.5-20.5-9.1888-20.5-20.5-20.5z" fill-opacity="0" stroke="#00537d" stroke-linecap="round"/>
-  <g id="g4497" transform="translate(.026342 -.026342)">
-   <circle id="path4326-9" opacity=".3" style="color:#000000" cx="23.974" stroke="#000" cy="24.026" r="9.0001" stroke-width=".99986" fill="none"/>
-   <ellipse id="path4266-2" style="color:#000000" rx="6.5142" ry="6.5142" cy="24" cx="24" fill="#668fb6"/>
-   <ellipse id="ellipse4493" opacity=".3" stroke="#000" style="color:#000000" rx="6.5001" ry="6.5001" cy="24" cx="24" stroke-width=".99985" fill="none"/>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4031"
+   height="48"
+   width="48"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="chromium-browser-alt.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
+     id="namedview26"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="-10.779661"
+     inkscape:cy="24"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4031" />
+  <defs
+     id="defs4033">
+    <radialGradient
+       id="radialGradient3018"
+       gradientUnits="userSpaceOnUse"
+       cy="186.17"
+       cx="99.157"
+       gradientTransform="matrix(0.27083,0,0,0.087623,-2.8551,25.187)"
+       r="62.769">
+      <stop
+         id="stop3822-2-6-3"
+         stop-color="#3d3d3d"
+         offset="0" />
+      <stop
+         id="stop3864-8-7-7"
+         stop-color="#686868"
+         stop-opacity=".49804"
+         offset=".5" />
+      <stop
+         id="stop3824-1-2-5"
+         stop-color="#686868"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+    <linearGradient
+       id="linearGradient5069"
+       y2="32.568"
+       gradientUnits="userSpaceOnUse"
+       x2="15.124"
+       gradientTransform="matrix(0.76259,0,0,0.76259,12.401,18.789)"
+       y1="-18.801"
+       x1="15.124">
+      <stop
+         id="stop4577"
+         stop-color="#fff"
+         offset="0" />
+      <stop
+         id="stop4579"
+         stop-color="#fff"
+         stop-opacity="0"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata4036">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <circle
+     r="9.5"
+     cy="24.332001"
+     cx="24.066"
+     style="color:#000000;fill:#ffffff"
+     id="circle4564" />
+  <path
+     style="fill:#89b7e1"
+     inkscape:connector-curvature="0"
+     d="m 6.9812,12.518 a 20.554,20.549 0 0 0 15.416,31.924 l 8.6253,-14.678 a 9.1758,9.1735 0 0 1 -15.782,-2.9355"
+     id="path39-4" />
+  <path
+     style="fill:#89b7e1"
+     inkscape:connector-curvature="0"
+     d="m 7.1076,12.407 c -8.9619,13.127 -0.2751,31.021 15.579,32.093 0,0 4.6564,-0.3012 8.0918,-6.4251 3.4354,-6.1239 1.1758,-9.6268 1.1758,-9.6268 -3.8548,6.6065 -13.624,5.8747 -16.449,-1.2322"
+     id="path4497" />
+  <path
+     style="fill:#668fb6"
+     inkscape:connector-curvature="0"
+     d="M 42.526,15.101 C 35.639,0.777 15.799,-0.647 6.943,12.547 c 0,0 -2.0674,4.1832 1.5184,10.22 3.5858,6.0371 7.7492,5.8317 7.7492,5.8317 -3.794,-6.6417 1.7243,-14.736 9.2914,-13.629"
+     id="path4495" />
+  <path
+     style="fill:#c5daf5"
+     inkscape:connector-curvature="0"
+     d="M 22.397,44.442 C 38.246,45.6399 49.399,29.17 42.4,14.903 c 0,0 -2.5891,-3.882 -9.6102,-3.7952 -7.0212,0.08684 -8.925,3.7952 -8.925,3.7952 7.6488,0.03513 11.9,8.8613 7.1572,14.861"
+     id="path41-4" />
+  <path
+     style="fill:#89b7e1"
+     inkscape:connector-curvature="0"
+     d="m 10.902,39.803 c 3.145,2.6401 7.1602,4.3845 11.786,4.6972 0,0 4.6564,-0.3012 8.0918,-6.4251 3.4354,-6.1239 1.1758,-9.6268 1.1758,-9.6268 -2.9632,5.0784 -9.421,5.8206 -13.533,2.6642"
+     id="path4499" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 24,3.5 C 12.689,3.5 3.5,12.6888 3.5,24 3.5,35.3112 12.6888,44.5 24,44.5 35.3112,44.5 44.5,35.3112 44.5,24 44.5,12.6888 35.3112,3.5 24,3.5 Z"
+     style="color:#000000;opacity:0.5;fill-opacity:0;stroke:#00537d;stroke-linecap:round;stroke-linejoin:round"
+     id="path2555-6" />
+  <g
+     transform="translate(0.026342,-0.026342)"
+     id="g4497">
+    <circle
+       r="9.0001001"
+       cy="24.025999"
+       cx="23.974001"
+       style="color:#000000;opacity:0.3;fill:none;stroke:#000000;stroke-width:0.99985999"
+       id="path4326-9" />
+    <circle
+       r="6.5142002"
+       cx="24"
+       cy="24"
+       style="color:#000000;fill:#668fb6"
+       id="path4266-2" />
+    <circle
+       r="6.5001001"
+       cx="24"
+       cy="24"
+       style="color:#000000;opacity:0.3;fill:none;stroke:#000000;stroke-width:0.99984998"
+       id="ellipse4493" />
   </g>
-  <circle id="path3773-9" opacity=".6" stroke-width=".99998" stroke-opacity=".58824" stroke="url(#linearGradient5069)" cy="24" cx="24" r="19.5" fill="none"/>
- </g>
+  <circle
+     style="opacity:0.6;fill:none;stroke:url(#linearGradient5069);stroke-width:0.99997997;stroke-opacity:0.58824002"
+     r="19.5"
+     cx="24"
+     cy="24"
+     id="path3773-9" />
 </svg>

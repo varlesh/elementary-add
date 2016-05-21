@@ -1,122 +1,56 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.0"
-   width="24"
    height="24"
-   id="svg4431"
-   inkscape:version="0.91 r"
-   sodipodi:docname="diodon-panel.svg">
-  <sodipodi:namedview
-     pagecolor="#353535"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0.63529412"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="845"
-     id="namedview16"
-     showgrid="false"
-     inkscape:zoom="6.1198265"
-     inkscape:cx="-30.678701"
-     inkscape:cy="24.471866"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg4431" />
+   id="svg7384"
+   version="1.1"
+   width="24">
   <metadata
-     id="metadata16">
+     id="metadata90">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>elementary Symbolic Icon Theme</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <title
+     id="title9167">elementary Symbolic Icon Theme</title>
   <defs
-     id="defs4433">
-    <linearGradient
-       x1="50.925655"
-       y1="11.648451"
-       x2="73.986542"
-       y2="11.648451"
-       id="linearGradient2390"
-       xlink:href="#linearGradient3678"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,0.7805424,-0.7617909,0,28.873684,-37.749634)" />
-    <linearGradient
-       x1="9"
-       y1="3"
-       x2="9"
-       y2="21"
-       id="linearGradient2393"
-       xlink:href="#linearGradient3678"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-2,-1)" />
-    <linearGradient
-       x1="15"
-       y1="8"
-       x2="15"
-       y2="20"
-       id="linearGradient3692"
-       xlink:href="#linearGradient3678"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       x1="9.1701241"
-       y1="3"
-       x2="9.311203"
-       y2="15"
-       id="linearGradient3684"
-       xlink:href="#linearGradient3678"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       id="linearGradient3678">
-      <stop
-         id="stop3680"
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3682"
-         style="stop-color:#e6e6e6;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       x1="9.1701241"
-       y1="3"
-       x2="9.311203"
-       y2="15"
-       id="linearGradient3640"
-       xlink:href="#linearGradient3678"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-22.566265,-7.7349402)" />
-    <linearGradient
-       x1="15"
-       y1="8"
-       x2="15"
-       y2="20"
-       id="linearGradient3643"
-       xlink:href="#linearGradient3678"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-22.566265,-7.7349402)" />
-  </defs>
+     id="defs7386" />
+  <g
+     id="layer9"
+     label="status"
+     style="display:inline"
+     transform="translate(-373.0006,20)" />
+  <g
+     id="layer10"
+     style="display:inline"
+     transform="translate(-373.0006,20)" />
+  <g
+     id="layer13"
+     style="display:inline"
+     transform="translate(-373.0006,20)" />
+  <g
+     id="layer14"
+     transform="translate(-373.0006,20)" />
+  <g
+     id="layer15"
+     style="display:inline"
+     transform="translate(-373.0006,20)" />
+  <g
+     id="g71291"
+     style="display:inline"
+     transform="translate(-373.0006,20)" />
   <path
-     inkscape:connector-curvature="0"
-     d="M 9.996968,3.9999996 C 6.6849398,3.9999996 4,6.6849396 4,9.9969671 c 0,3.3120279 2.6849398,5.9969689 5.996968,5.9969689 1.288457,0 2.485041,-0.415059 3.462536,-1.106584 l 4.818992,4.818993 c 0.39154,0.39154 1.036311,0.39154 1.427849,0 0.39154,-0.391539 0.39154,-1.036311 0,-1.42785 l -4.818992,-4.818992 c 0.691525,-0.977495 1.106584,-2.174079 1.106584,-3.4625359 0,-3.3120275 -2.68494,-5.9969675 -5.996969,-5.9969675 z m 0,1.5706346 c 2.444593,0 4.426334,1.9817412 4.426334,4.4263329 0,2.4445929 -1.981741,4.4263349 -4.426334,4.4263349 -2.4445924,0 -4.4263335,-1.981742 -4.4263335,-4.4263349 0,-2.4445917 1.9817411,-4.4263329 4.4263335,-4.4263329 z"
-     id="path2986-0-7"
-     style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     d="M 9.5,3 C 5.9219938,3 3,5.9219938 3,9.5 3,13.078006 5.9219938,16 9.5,16 c 1.423742,0 2.674813,-0.555343 3.748047,-1.337891 l 6.044922,6.044922 1.414062,-1.414062 -6.044922,-6.044922 C 15.444657,12.174813 16,10.923742 16,9.5 16,5.9219938 13.078006,3 9.5,3 Z m 0,2 C 11.997126,5 14,7.002874 14,9.5 14,11.997126 11.997126,14 9.5,14 7.002874,14 5,11.997126 5,9.5 5,7.002874 7.002874,5 9.5,5 Z"
+     id="path8080" />
 </svg>
