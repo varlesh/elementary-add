@@ -5,7 +5,7 @@
 Additional icons for elementary OS Freya. It contains icons for several third party applications that resemble elementary OS's style.
 
 ## Install
-ONLY elementary OS Freya. NOT SUPPORTED elementary OS Luna, Ubuntu, Linux Mint etc ...
+Support elementary OS and Ubuntu Unity.
 ```
 sudo add-apt-repository ppa:varlesh-l/ppa-elementary-add
 sudo apt-get update
