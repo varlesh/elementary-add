@@ -1,6 +1,8 @@
 # elementary add icon theme
 
 ![Screenshot icons](preview.png)
+![Screenshot ubuntu](ubuntu.png)
+
 ## Description
 Additional icons for elementary OS Freya. It contains icons for several third party applications that resemble elementary OS's style.
 
