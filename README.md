@@ -4,7 +4,7 @@
 ![Screenshot ubuntu-osx](ubuntu-osx-style.png)
 
 ## Description
-Additional icons for elementary OS Freya. It contains icons for several third party applications that resemble elementary OS's style.
+elementary style icon themes.
 
 ## Install
 Support elementary OS and Ubuntu Unity.
