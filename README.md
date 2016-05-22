@@ -1,7 +1,7 @@
 # elementary add icon theme
 
 ![Screenshot icons](preview.png)
-![Screenshot ubuntu-osx](ubuntu-osx-style.png)
+![Screenshot ubuntu](preview-ubuntu.png)
 
 ## Description
 elementary style icon themes.
