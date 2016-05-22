@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=elementary-add
 Comment=Smooth modern theme designed to be intuitive.
-Inherits=elementary, ubuntu-mono-dark, gnome, hicolor
+Inherits=elementary,ubuntu-mono-dark,gnome,hicolor
 Example=directory-x-normal
 
 #Directory list
