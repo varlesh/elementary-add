@@ -7,10 +7,10 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="22"
-   width="22"
+   height="24"
+   width="24"
    version="1.1"
-   viewBox="0 0 22 22"
+   viewBox="0 0 24 24"
    id="svg2"
    inkscape:version="0.91 r13725"
    sodipodi:docname="indicator-sensors-case.svg">
@@ -22,13 +22,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs12" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#4c4c4c"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -36,25 +37,30 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1535"
-     inkscape:window-height="876"
+     inkscape:window-width="1600"
+     inkscape:window-height="814"
      id="namedview10"
      showgrid="false"
      inkscape:zoom="10.727273"
-     inkscape:cx="-4.1483051"
+     inkscape:cx="-4.940678"
      inkscape:cy="11"
-     inkscape:window-x="65"
+     inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
-  <path
-     style="fill:#4c4c4c;fill-opacity:1"
-     inkscape:connector-curvature="0"
-     id="path6"
-     d="m 3,6 0,12 c 0,0.554 0.446,1 1,1 l 10,0 c 0.554,0 1,-0.446 1,-1 L 15,6 3,6 Z m 2.5,2 7,0 A 0.50005,0.50005 0 0 1 13,8.5 l 0,2 0,2 A 0.50005,0.50005 0 0 1 12.5,13 l -7,0 A 0.50005,0.50005 0 0 1 5,12.5 l 0,-2 0,-2 A 0.50005,0.50005 0 0 1 5.5,8 Z m 0.5,1 0,1 6,0 0,-1 -6,0 z m 0,2 0,1 6,0 0,-1 -6,0 z m 0,3 1,0 0,1 1,0 0,-1 1,0 0,1 1,0 0,-1 1,0 0,1 1,0 0,-1 1,0 0,1 -1,0 0,1 1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 -1,0 0,-1 1,0 0,-1 z m 0,1 0,1 1,0 0,-1 -1,0 z m 2,1 1,0 0,-1 -1,0 0,1 z m 2,0 1,0 0,-1 -1,0 0,1 z" />
-  <path
-     style="fill:#4c4c4c;fill-rule:evenodd;fill-opacity:1"
-     inkscape:connector-curvature="0"
-     id="path8"
-     d="m 3,5 2,-2 8,0 2,2 z" />
+  <g
+     transform="translate(3,-1029.4)"
+     id="g4"
+     style="fill:#4c4c4c">
+    <path
+       d="m 3,6 0,12 c 0,0.554 0.446,1 1,1 l 10,0 c 0.554,0 1,-0.446 1,-1 L 15,6 3,6 Z m 2.5,2 7,0 A 0.50005,0.50005 0 0 1 13,8.5 l 0,2 0,2 A 0.50005,0.50005 0 0 1 12.5,13 l -7,0 A 0.50005,0.50005 0 0 1 5,12.5 l 0,-2 0,-2 A 0.50005,0.50005 0 0 1 5.5,8 Z m 0.5,1 0,1 6,0 0,-1 -6,0 z m 0,2 0,1 6,0 0,-1 -6,0 z m 0,3 1,0 0,1 1,0 0,-1 1,0 0,1 1,0 0,-1 1,0 0,1 1,0 0,-1 1,0 0,1 -1,0 0,1 1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 -1,0 0,1 -1,0 0,-1 -1,0 0,-1 1,0 0,-1 z m 0,1 0,1 1,0 0,-1 -1,0 z m 2,1 1,0 0,-1 -1,0 0,1 z m 2,0 1,0 0,-1 -1,0 0,1 z"
+       transform="translate(0,1030.4)"
+       id="path6"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 3,1035.4 2,-2 8,0 2,2 z"
+       id="path8"
+       inkscape:connector-curvature="0"
+       style="fill-rule:evenodd" />
+  </g>
 </svg>
