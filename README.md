@@ -2,15 +2,13 @@
 
 ![Screenshot icons](preview.png)
 
-*Preview Ubuntu 16.04:*
+**Preview on Ubuntu 16.04:**
+- Icon Theme elementary add osx
 - GTK Theme [OS X El Capitan](https://github.com/Elbullazul/OS-X-El-Capitan)
 - [Docky](https://launchpad.net/docky)
 - [Notify OSD Configuration](https://code.launchpad.net/~amandeepgrewal/notifyconf/trunk)
 
-![Screenshot ubuntu](preview-ubuntu.png)
-
-## Description
-elementary style icon themes.
+![Screenshot ubuntu](ubuntu.png)
 
 ## Install
 Support elementary OS and Ubuntu Unity.
