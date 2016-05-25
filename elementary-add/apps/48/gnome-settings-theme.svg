@@ -29,8 +29,8 @@
      inkscape:window-height="876"
      id="namedview55"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="23.210525"
+     inkscape:zoom="8.6599296"
+     inkscape:cx="27.316487"
      inkscape:cy="30.78275"
      inkscape:window-x="0"
      inkscape:window-y="24"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -158,8 +158,10 @@
      style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.4;fill:none;stroke:#004264;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
   <path
      style="opacity:1;fill:#4a4a4a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 3 6.5 C 2.169 6.5 1.5 7.169 1.5 8 L 1.5 10 L 46.5 10 L 46.5 8 C 46.5 7.169 45.831 6.5 45 6.5 L 3 6.5 z "
-     id="rect4181" />
+     d="M 3,6.5 C 2.169,6.5 1.5,7.169 1.5,8 l 0,5 45,0 0,-5 C 46.5,7.169 45.831,6.5 45,6.5 Z"
+     id="rect4181"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ssccsss" />
   <rect
      width="43"
      height="34"
@@ -171,7 +173,7 @@
      style="opacity:0.3;fill:none;stroke:url(#linearGradient3345);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <g
      id="g4402"
-     transform="translate(3,3)">
+     transform="translate(3,5)">
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect4398"
