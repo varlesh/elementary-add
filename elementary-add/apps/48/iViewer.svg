@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,8 +40,8 @@
      inkscape:window-height="876"
      id="namedview49"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="44.352075"
+     inkscape:zoom="12.125733"
+     inkscape:cx="40.533426"
      inkscape:cy="24"
      inkscape:window-x="65"
      inkscape:window-y="24"
@@ -133,17 +133,6 @@
          style="stop-color:#000000;stop-opacity:0.27826086"
          offset="1" />
     </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3104-8-8-97-9-6"
-       id="radialGradient4297"
-       cx="24.007423"
-       cy="24.01046"
-       fx="24.007423"
-       fy="24.01046"
-       r="15.511512"
-       gradientTransform="matrix(1,0,0,0.8709966,7.0040876,9.0764967)"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <path
      d="m 23.9985,3.4575 c -11.347,0 -20.498,8.521 -20.498,19 0.0095,5.798 2.8745,11.28 7.797,14.883 l 0.201,0.15 0,6.612 6.295,-3.541 0.199,0.058 c 1.946,0.554 3.97,0.836 6.006,0.838 11.347,0 20.502,-8.521 20.502,-19 0,-10.479 -9.155,-19 -20.502,-19 z"
@@ -230,7 +219,7 @@
        inkscape:connector-curvature="0" />
   </g>
   <path
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient4297);stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate;opacity:0.5"
      id="path4289"
      inkscape:connector-curvature="0"
      d="m 31.08682,16.988352 c 5.293424,0.196139 10.806839,2.469165 13.60687,7.117333 2.090859,3.323527 1.521817,8.248864 -0.592681,10.985115 -0.893239,1.230177 -1.993231,2.175388 -3.206159,3.055521 -0.57138,1.777858 0.545628,3.429213 1.59364,4.768027 -0.670065,0.272153 -2.538058,-0.376448 -3.61744,-0.787049 -1.294572,-0.487255 -2.475361,-1.2369 -3.659741,-1.918309 -5.973564,1.131134 -12.72465,-0.649091 -16.706983,-5.384949 -2.56449,-2.933571 -3.334664,-7.392316 -1.468863,-10.878861 2.359261,-4.542998 7.586822,-6.744876 12.548219,-6.944692 0.500669,-0.0205 1.002228,-0.0297 1.503138,-0.01213 z"
