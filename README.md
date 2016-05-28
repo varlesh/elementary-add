@@ -12,8 +12,7 @@ sudo apt-get update
 sudo apt-get install elementary-add-icon-theme
 ```
 ## Recommends
-For better looking please use 48px icons on slingshot-launcher:
+On elementary OS for better looking please use 48px icons on slingshot-launcher:
 ```
 gsettings set org.pantheon.desktop.slingshot icon-size 48﻿
-killall slingshot-launcher
 ```
