@@ -2,7 +2,7 @@
 
 ![Screenshot icons](preview-icons.png)
 
-See [screenshots](https://github.com/varlesh/elementary-add/blob/master/elementary-add/screens/README.md)
+See [screenshots](https://github.com/varlesh/elementary-add/tree/master/screens)
 
 ## Install
 Support elementary OS and Ubuntu Unity.
