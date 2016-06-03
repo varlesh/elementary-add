@@ -18,4 +18,5 @@ gsettings set org.pantheon.desktop.slingshot icon-size 48﻿
 ```
 ## Developers
 Customizer - [Alexey Varfolomeev](https://github.com/varlesh)
+
 Mantainer PPA - [Yuly Nesterov](https://github.com/inpr1se)
