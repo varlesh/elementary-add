@@ -6,6 +6,7 @@ See [screenshots](https://github.com/varlesh/elementary-add/tree/master/screens)
 
 ## Install
 Support elementary OS and Ubuntu Unity.
+
 **NOTE**: Launchpad PPA contains patched slingshot-launcher for Loki with 48px icons.
 ```
 sudo add-apt-repository ppa:elementary-add-team/icons
